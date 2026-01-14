@@ -160,13 +160,13 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
             </a>
 
             <a
-              href="https://www.superlaun.ch/products/1431"
+              href="https://launchigniter.com/product/glm-image-ai-generator?ref=badge-glm-image-ai-generator"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                src="https://www.superlaun.ch/badge.png"
-                alt="Featured on Super Launch"
+                src="https://launchigniter.com/api/badge/glm-image-ai-generator?theme=light"
+                alt="Featured on LaunchIgniter"
                 className="h-8 w-auto"
               />
             </a>
