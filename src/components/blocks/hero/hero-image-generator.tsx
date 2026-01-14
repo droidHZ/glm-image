@@ -49,6 +49,11 @@ export function HeroImageGenerator() {
       return;
     }
 
+    if (!isLoggedIn) {
+      // LoginWrapper will handle showing the login dialog
+      return;
+    }
+
     execute({
       prompt: prompt.trim(),
       aspectRatio: aspectRatio as any,
@@ -119,24 +124,36 @@ export function HeroImageGenerator() {
               {t('clear')}
             </Button>
 
-            <Button
-              size="lg"
-              onClick={handleGenerate}
-              disabled={isExecuting}
-              className="bg-green-600 hover:bg-green-700 text-white px-8"
-            >
-              {isExecuting ? (
-                <>
-                  <Loader2 className="mr-2 size-4 animate-spin" />
-                  {t('generating')}
-                </>
-              ) : (
-                <>
+            {isLoggedIn ? (
+              <Button
+                size="lg"
+                onClick={handleGenerate}
+                disabled={isExecuting}
+                className="bg-green-600 hover:bg-green-700 text-white px-8"
+              >
+                {isExecuting ? (
+                  <>
+                    <Loader2 className="mr-2 size-4 animate-spin" />
+                    {t('generating')}
+                  </>
+                ) : (
+                  <>
+                    <Sparkles className="mr-2 size-4" />
+                    {t('generate')}
+                  </>
+                )}
+              </Button>
+            ) : (
+              <LoginWrapper mode="modal" asChild>
+                <Button
+                  size="lg"
+                  className="bg-green-600 hover:bg-green-700 text-white px-8 cursor-pointer"
+                >
                   <Sparkles className="mr-2 size-4" />
-                  {isLoggedIn ? t('generate') : t('loginToGenerateFree')}
-                </>
-              )}
-            </Button>
+                  {t('loginToGenerateFree')}
+                </Button>
+              </LoginWrapper>
+            )}
           </div>
         </div>
       </div>
