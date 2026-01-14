@@ -98,6 +98,15 @@ export default async function proxy(req: NextRequest) {
       new RegExp(`^${route}$`).test(pathnameWithoutLocale)
     );
     if (isNotAllowedRoute) {
+      // Check if there's a callbackUrl parameter that should be respected
+      const callbackUrl = nextUrl.searchParams.get('callbackUrl');
+      if (callbackUrl) {
+        console.log(
+          '<< proxy end, not allowed route, already logged in, redirecting to callbackUrl:',
+          callbackUrl
+        );
+        return NextResponse.redirect(new URL(callbackUrl, nextUrl));
+      }
       console.log(
         '<< proxy end, not allowed route, already logged in, redirecting to dashboard'
       );
