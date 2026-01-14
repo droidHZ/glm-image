@@ -61,6 +61,11 @@ export function useNavbarLinks(): NestedMenuItem[] {
       href: Routes.Pricing,
       external: false,
     },
+    {
+      title: t('gallery.title'),
+      href: '/#gallery',
+      external: false,
+    },
 
     // {
     //   title: t('blocks.title'),

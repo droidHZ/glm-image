@@ -327,6 +327,9 @@
       "pricing": {
         "title": "价格"
       },
+      "gallery": {
+        "title": "画廊"
+      },
       "blog": {
         "title": "博客"
       },
