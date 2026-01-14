@@ -68,7 +68,10 @@ export default function ComparisonSection() {
               </thead>
               <tbody className="divide-y">
                 {comparisonItems.map((item) => (
-                  <tr key={item.id} className="hover:bg-muted/20 transition-colors">
+                  <tr
+                    key={item.id}
+                    className="hover:bg-muted/20 transition-colors"
+                  >
                     <td className="px-6 py-4 text-sm font-medium">
                       {item.feature}
                     </td>

@@ -805,6 +805,18 @@
       "primary": "开始使用",
       "secondary": "查看演示"
     },
+    "heroGenerator": {
+      "promptLabel": "描述您的图片",
+      "promptPlaceholder": "您想看到什么？",
+      "aspectRatioLabel": "图片比例",
+      "clear": "清除",
+      "generate": "生成",
+      "generating": "生成中...",
+      "loginToGenerateFree": "登录免费生成",
+      "generateSuccess": "图片生成成功！",
+      "generateError": "图片生成失败",
+      "promptRequired": "请输入提示词"
+    },
     "logocloud": {
       "title": "您最爱公司都是我们的合作伙伴"
     },

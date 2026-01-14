@@ -53,7 +53,9 @@ export default function HowItWorksSection() {
                 {step.number}
               </div>
               <h3 className="mb-2 text-lg font-semibold">{step.title}</h3>
-              <p className="text-sm text-muted-foreground">{step.description}</p>
+              <p className="text-sm text-muted-foreground">
+                {step.description}
+              </p>
             </div>
           ))}
         </div>

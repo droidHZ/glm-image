@@ -14,7 +14,9 @@ export default function DisclaimerSection() {
             </div>
             <div>
               <h2 className="text-2xl font-semibold mb-2">{t('title')}</h2>
-              <p className="text-sm text-muted-foreground mb-4">{t('subtitle')}</p>
+              <p className="text-sm text-muted-foreground mb-4">
+                {t('subtitle')}
+              </p>
               <p className="text-sm leading-relaxed text-muted-foreground">
                 {t('description')}
               </p>

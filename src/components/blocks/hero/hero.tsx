@@ -1,31 +1,8 @@
-import { Ripple } from '@/components/magicui/ripple';
-import { AnimatedGroup } from '@/components/tailark/motion/animated-group';
-import { TextEffect } from '@/components/tailark/motion/text-effect';
 import { Button } from '@/components/ui/button';
 import { LocaleLink } from '@/i18n/navigation';
 import { ArrowRight } from 'lucide-react';
 import { useTranslations } from 'next-intl';
-import Image from 'next/image';
-
-const transitionVariants = {
-  item: {
-    hidden: {
-      opacity: 0,
-      y: 12,
-      scale: 0.95,
-    },
-    visible: {
-      opacity: 1,
-      y: 0,
-      scale: 1,
-      transition: {
-        type: 'spring',
-        bounce: 0.3,
-        duration: 1.5,
-      },
-    },
-  },
-};
+import { HeroImageGenerator } from './hero-image-generator';
 
 export default function HeroSection() {
   const t = useTranslations('HomePage.hero');
@@ -49,74 +26,41 @@ export default function HeroSection() {
         <section>
           <div className="relative pt-12">
             <div className="mx-auto max-w-7xl px-6">
-              <Ripple />
-
               <div className="text-center sm:mx-auto lg:mr-auto lg:mt-0">
                 {/* introduction */}
-                <AnimatedGroup variants={transitionVariants}>
-                  <LocaleLink
-                    href={linkIntroduction}
-                    className="hover:bg-accent group mx-auto flex w-fit items-center gap-2 rounded-full border p-1 pl-4"
-                  >
-                    <span className="text-foreground text-sm">
-                      {t('introduction')}
-                    </span>
+                <LocaleLink
+                  href={linkIntroduction}
+                  className="hover:bg-accent group mx-auto flex w-fit items-center gap-2 rounded-full border p-1 pl-4"
+                >
+                  <span className="text-foreground text-sm">
+                    {t('introduction')}
+                  </span>
 
-                    <div className="size-6 overflow-hidden rounded-full duration-500">
-                      <div className="flex w-12 -translate-x-1/2 duration-500 ease-in-out group-hover:translate-x-0">
-                        <span className="flex size-6">
-                          <ArrowRight className="m-auto size-3" />
-                        </span>
-                        <span className="flex size-6">
-                          <ArrowRight className="m-auto size-3" />
-                        </span>
-                      </div>
+                  <div className="size-6 overflow-hidden rounded-full duration-500">
+                    <div className="flex w-12 -translate-x-1/2 duration-500 ease-in-out group-hover:translate-x-0">
+                      <span className="flex size-6">
+                        <ArrowRight className="m-auto size-3" />
+                      </span>
+                      <span className="flex size-6">
+                        <ArrowRight className="m-auto size-3" />
+                      </span>
                     </div>
-                  </LocaleLink>
-                </AnimatedGroup>
+                  </div>
+                </LocaleLink>
 
                 {/* title */}
-                <TextEffect
-                  per="line"
-                  preset="fade-in-blur"
-                  speedSegment={0.3}
-                  as="h1"
-                  className="mt-8 text-balance text-5xl font-bricolage-grotesque lg:mt-16 xl:text-[5rem]"
-                >
+                <h1 className="mt-8 text-balance text-5xl font-bricolage-grotesque lg:mt-16 xl:text-[5rem]">
                   {t('title')}
-                </TextEffect>
+                </h1>
 
                 {/* description */}
-                <TextEffect
-                  per="line"
-                  preset="fade-in-blur"
-                  speedSegment={0.3}
-                  delay={0.5}
-                  as="p"
-                  className="mx-auto mt-8 max-w-4xl text-balance text-lg text-muted-foreground"
-                >
+                <p className="mx-auto mt-8 max-w-4xl text-balance text-lg text-muted-foreground">
                   {t('description')}
-                </TextEffect>
+                </p>
 
                 {/* action buttons */}
-                <AnimatedGroup
-                  variants={{
-                    container: {
-                      visible: {
-                        transition: {
-                          staggerChildren: 0.05,
-                          delayChildren: 0.75,
-                        },
-                      },
-                    },
-                    ...transitionVariants,
-                  }}
-                  className="mt-12 flex flex-row items-center justify-center gap-4"
-                >
-                  <div
-                    key={1}
-                    className="bg-foreground/10 rounded-[calc(var(--radius-xl)+0.125rem)] border p-0.5"
-                  >
+                <div className="mt-12 flex flex-row items-center justify-center gap-4">
+                  <div className="bg-foreground/10 rounded-[calc(var(--radius-xl)+0.125rem)] border p-0.5">
                     <Button
                       asChild
                       size="lg"
@@ -128,7 +72,6 @@ export default function HeroSection() {
                     </Button>
                   </div>
                   <Button
-                    key={2}
                     asChild
                     size="lg"
                     variant="outline"
@@ -138,47 +81,14 @@ export default function HeroSection() {
                       <span className="text-nowrap">{t('secondary')}</span>
                     </LocaleLink>
                   </Button>
-                </AnimatedGroup>
+                </div>
               </div>
             </div>
 
-            {/* images */}
-            <AnimatedGroup
-              variants={{
-                container: {
-                  visible: {
-                    transition: {
-                      staggerChildren: 0.05,
-                      delayChildren: 0.75,
-                    },
-                  },
-                },
-                ...transitionVariants,
-              }}
-            >
-              <div className="relative -mr-56 mt-8 overflow-hidden px-2 sm:mr-0 sm:mt-12 md:mt-20">
-                <div
-                  aria-hidden
-                  className="bg-linear-to-b to-muted/50 absolute inset-0 z-10 from-transparent from-35%"
-                />
-                <div className="inset-shadow-2xs ring-muted/50 dark:inset-shadow-white/20 bg-muted/50 relative mx-auto max-w-6xl overflow-hidden rounded-2xl border p-4 shadow-lg shadow-zinc-950/15 ring-1">
-                  <Image
-                    className="bg-muted/50 relative hidden rounded-2xl dark:block"
-                    src="https://cdn.mksaas.com/blocks/music.png"
-                    alt="app screen"
-                    width={2796}
-                    height={2008}
-                  />
-                  <Image
-                    className="z-2 border-border/25 relative rounded-2xl border dark:hidden"
-                    src="https://cdn.mksaas.com/blocks/music-light.png"
-                    alt="app screen"
-                    width={2796}
-                    height={2008}
-                  />
-                </div>
-              </div>
-            </AnimatedGroup>
+            {/* Hero Image Generator */}
+            <div className="relative mt-8 px-2 sm:mt-12 md:mt-20">
+              <HeroImageGenerator />
+            </div>
           </div>
         </section>
       </main>
