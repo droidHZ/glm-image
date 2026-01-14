@@ -48,8 +48,8 @@ function getPriceForPlan(
   interval?: PlanInterval,
   paymentType?: PaymentType
 ): Price | undefined {
-  if (plan.isFree) {
-    // Free plan has no price
+  if (plan.isFree || plan.isPayAsYouGo) {
+    // Free plan and Pay as You Go plan have no price
     return undefined;
   }
 
@@ -89,6 +89,9 @@ export function PricingCard({
   let priceLabel = '';
   if (plan.isFree) {
     formattedPrice = t('freePrice');
+  } else if (plan.isPayAsYouGo) {
+    formattedPrice = 'Flexible';
+    priceLabel = '';
   } else if (price && price.amount > 0) {
     // price is available
     formattedPrice = formatPrice(price.amount, price.currency);
@@ -167,6 +170,24 @@ export function PricingCard({
             <LoginWrapper mode="modal" asChild callbackUrl={currentPath}>
               <Button variant="outline" className="mt-4 w-full cursor-pointer">
                 {t('getStartedForFree')}
+              </Button>
+            </LoginWrapper>
+          )
+        ) : plan.isPayAsYouGo ? (
+          mounted && currentUser ? (
+            <Button
+              variant="default"
+              className="mt-4 w-full cursor-pointer"
+              onClick={() => {
+                window.location.href = '/dashboard/billing';
+              }}
+            >
+              Buy Credits
+            </Button>
+          ) : (
+            <LoginWrapper mode="modal" asChild callbackUrl={currentPath}>
+              <Button variant="default" className="mt-4 w-full cursor-pointer">
+                Buy Credits
               </Button>
             </LoginWrapper>
           )

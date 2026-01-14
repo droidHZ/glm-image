@@ -48,8 +48,74 @@
     "title": "Pricing",
     "description": "Choose the plan that works best for you",
     "subtitle": "Choose the plan that works best for you",
-    "monthly": "Monthly",
-    "yearly": "Yearly",
+    "payAsYouGo": "Pay as You Go",
+    "monthlyTab": "Monthly",
+    "yearlyTab": "Yearly",
+    "month": "month",
+    "year": "year",
+    "credits": "credits",
+    "buyNow": "Buy Now",
+    "subscribe": "Subscribe",
+    "packages": {
+      "basic": {
+        "name": "Basic",
+        "feature1": "1,000 credits",
+        "feature2": "Credits never expire",
+        "feature3": "~100 images"
+      },
+      "standard": {
+        "name": "Standard",
+        "feature1": "5,000 credits",
+        "feature2": "Credits never expire",
+        "feature3": "~500 images"
+      },
+      "premium": {
+        "name": "Premium",
+        "feature1": "20,000 credits",
+        "feature2": "Credits never expire",
+        "feature3": "~2,000 images"
+      }
+    },
+    "monthly": {
+      "basic": {
+        "name": "Basic",
+        "feature1": "500 credits per month",
+        "feature2": "Auto-renewal",
+        "feature3": "~50 images/month"
+      },
+      "standard": {
+        "name": "Standard",
+        "feature1": "2,500 credits per month",
+        "feature2": "Auto-renewal",
+        "feature3": "~250 images/month"
+      },
+      "pro": {
+        "name": "Pro",
+        "feature1": "5,000 credits per month",
+        "feature2": "Auto-renewal",
+        "feature3": "~500 images/month"
+      }
+    },
+    "yearly": {
+      "basic": {
+        "name": "Basic Yearly",
+        "feature1": "6,000 credits per year",
+        "feature2": "2 months free",
+        "feature3": "~$8/month average"
+      },
+      "standard": {
+        "name": "Standard Yearly",
+        "feature1": "30,000 credits per year",
+        "feature2": "2 months free",
+        "feature3": "~$33/month average"
+      },
+      "pro": {
+        "name": "Pro Yearly",
+        "feature1": "60,000 credits per year",
+        "feature2": "2 months free",
+        "feature3": "~$58/month average"
+      }
+    },
     "PricingCard": {
       "freePrice": "$0",
       "perMonth": "/month",
@@ -69,6 +135,21 @@
     }
   },
   "PricePlans": {
+    "payAsYouGo": {
+      "name": "Pay as You Go",
+      "description": "Purchase credits as you need them",
+      "features": {
+        "feature-1": "No monthly commitment",
+        "feature-2": "Credits never expire",
+        "feature-3": "Flexible pricing",
+        "feature-4": "Pay only for what you use"
+      },
+      "limits": {
+        "limit-1": "No subscription benefits",
+        "limit-2": "Higher per-credit cost",
+        "limit-3": "No priority support"
+      }
+    },
     "free": {
       "name": "Free",
       "description": "Basic features for personal use",

@@ -48,8 +48,74 @@
     "title": "价格",
     "description": "选择最适合您的付费计划",
     "subtitle": "选择最适合您的付费计划",
-    "monthly": "月付",
-    "yearly": "年付",
+    "payAsYouGo": "按需付费",
+    "monthlyTab": "月付",
+    "yearlyTab": "年付",
+    "month": "月",
+    "year": "年",
+    "credits": "积分",
+    "buyNow": "立即购买",
+    "subscribe": "订阅",
+    "packages": {
+      "basic": {
+        "name": "基础版",
+        "feature1": "1,000 积分",
+        "feature2": "积分永久有效",
+        "feature3": "约 100 张图片"
+      },
+      "standard": {
+        "name": "标准版",
+        "feature1": "5,000 积分",
+        "feature2": "积分永久有效",
+        "feature3": "约 500 张图片"
+      },
+      "premium": {
+        "name": "高级版",
+        "feature1": "20,000 积分",
+        "feature2": "积分永久有效",
+        "feature3": "约 2,000 张图片"
+      }
+    },
+    "monthly": {
+      "basic": {
+        "name": "基础版",
+        "feature1": "每月 500 积分",
+        "feature2": "自动续订",
+        "feature3": "约 50 张图片/月"
+      },
+      "standard": {
+        "name": "标准版",
+        "feature1": "每月 2,500 积分",
+        "feature2": "自动续订",
+        "feature3": "约 250 张图片/月"
+      },
+      "pro": {
+        "name": "专业版",
+        "feature1": "每月 5,000 积分",
+        "feature2": "自动续订",
+        "feature3": "约 500 张图片/月"
+      }
+    },
+    "yearly": {
+      "basic": {
+        "name": "基础年付版",
+        "feature1": "每年 6,000 积分",
+        "feature2": "赠送 2 个月",
+        "feature3": "月均约 $8"
+      },
+      "standard": {
+        "name": "标准年付版",
+        "feature1": "每年 30,000 积分",
+        "feature2": "赠送 2 个月",
+        "feature3": "月均约 $33"
+      },
+      "pro": {
+        "name": "专业年付版",
+        "feature1": "每年 60,000 积分",
+        "feature2": "赠送 2 个月",
+        "feature3": "月均约 $58"
+      }
+    },
     "PricingCard": {
       "freePrice": "$0",
       "perMonth": "/月",
@@ -69,6 +135,21 @@
     }
   },
   "PricePlans": {
+    "payAsYouGo": {
+      "name": "按需付费",
+      "description": "根据需要购买积分",
+      "features": {
+        "feature-1": "无需月度承诺",
+        "feature-2": "积分永不过期",
+        "feature-3": "灵活定价",
+        "feature-4": "只为使用付费"
+      },
+      "limits": {
+        "limit-1": "无订阅优惠",
+        "limit-2": "单次积分成本较高",
+        "limit-3": "无优先支持"
+      }
+    },
     "free": {
       "name": "免费版",
       "description": "适用于个人使用的基本功能",

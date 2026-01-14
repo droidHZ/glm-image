@@ -80,6 +80,18 @@ export const websiteConfig: WebsiteConfig = {
   },
   price: {
     plans: {
+      payAsYouGo: {
+        id: 'payAsYouGo',
+        prices: [],
+        isFree: false,
+        isLifetime: false,
+        isPayAsYouGo: true,
+        credits: {
+          enable: false,
+          amount: 0,
+          expireDays: 0,
+        },
+      },
       free: {
         id: 'free',
         prices: [],

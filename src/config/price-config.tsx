@@ -22,6 +22,25 @@ export function usePricePlans(): Record<string, PricePlan> {
   const plans: Record<string, PricePlan> = {};
 
   // Add translated content to each plan
+  if (priceConfig.plans.payAsYouGo) {
+    plans.payAsYouGo = {
+      ...priceConfig.plans.payAsYouGo,
+      name: t('payAsYouGo.name'),
+      description: t('payAsYouGo.description'),
+      features: [
+        t('payAsYouGo.features.feature-1'),
+        t('payAsYouGo.features.feature-2'),
+        t('payAsYouGo.features.feature-3'),
+        t('payAsYouGo.features.feature-4'),
+      ],
+      limits: [
+        t('payAsYouGo.limits.limit-1'),
+        t('payAsYouGo.limits.limit-2'),
+        t('payAsYouGo.limits.limit-3'),
+      ],
+    };
+  }
+
   if (priceConfig.plans.free) {
     plans.free = {
       ...priceConfig.plans.free,
