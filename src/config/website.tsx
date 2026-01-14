@@ -10,7 +10,7 @@ import type { WebsiteConfig } from '@/types';
 export const websiteConfig: WebsiteConfig = {
   ui: {
     mode: {
-      defaultMode: 'light',
+      defaultModel: 'light',
       enableSwitch: true,
     },
   },
