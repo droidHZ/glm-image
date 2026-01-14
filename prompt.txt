@@ -1,0 +1,315 @@
+1.
+A magazine cover of a cheerful 20-year-old Chinese woman with messy long hair tied with a silk ribbon, laughing while sitting at a vintage wooden table in a seaside cafe. She wears a vintage floral sundress and retro sunglasses on her head. An iced coffee and a half-eaten croissant are on the table. Dappled sunlight filtering through leaves, warm golden hour glow, Kodak Gold 200 film aesthetic, slight halation, nostalgic mood, candid snapshot style. 8K resolution.
+
+Magazine layout:
+Title "SUNDAY".
+Cover text: "Golden Hour", "Slow Living", "July Edition 2025".
+Barcode bottom. Playful retro 70s typography in orange and cream.
+
+2.
+A 9:16 vertical screen high-end fashion illustration mood board, simulating a tablet scan effect. The background is pure hand-drawn creamy watercolor gradient paper with a faint pink grid. The visual core consists of several glossy vinyl stickers with distinct white die-cut wide borders and soft shadows. The central sticker is a photo of the user wearing a sweet date outfit, with bright lighting. On the left side is a deconstructed sticker of this outfit: a neatly folded jacket and exquisite high heels. In the bottom right corner is the key hidden layer sticker: a chic open mini-handbag revealing daily essentials like a tube of lipstick and vintage sunglasses, showcasing leather and glass textures. A Labubu art doll sticker in pink tones that echoes the user's clothing is lying on a hand-drawn speech bubble. The surroundings are decorated with crayon-textured hand-drawn hearts, sparkle symbols, and scribbled Chinese calligraphy annotations for OOTD. The image contains absolutely no human hands, pens, or physical desktop backgrounds—pure flat art illustration.
+
+
+3.
+An illustration of an anthropomorphic orange fox taking a nap on a large, soft green beanbag chair. The fox is wearing round glasses, a casual outfit with sneakers, and has a peaceful expression. Beside the chair on the floor sits a retro brown radio with a glowing dial. The art style is painterly with visible textures, resembling a modern storybook illustration. The lighting is warm and cozy, suggesting a lazy afternoon. Isolated on a plain white background.
+
+4.
+A magazine cover of a stylish 20-year-old Chinese woman with bob-cut hair, casually leaning against a teal tram in a quiet early-morning street market. She wears a cream knit sweater and pleated trousers. A paper bag filled with fresh chrysanthemums rests at her feet. Soft diffused dawn light, delicate pastel palette, Fuji Pro 160NS style, grainy but silky texture, shallow depth of field, slightly underexposed shadows, fashion editorial angle. 8K resolution.
+
+Magazine layout:
+Title “MORNING LINES”.
+Cover text: “City Calm”, “Shanghai Flow”, “Vol. 18 | October 2025”.
+Barcode bottom.
+
+
+5.
+{
+  "Objective": "Create a 3x3 grid photo collage with motorcycle biker aesthetics",
+  "FaceReference": {
+    "Mode": "Strict face preservation",
+    "Instruction": "Use uploaded reference for exact facial features",
+    "Consistency": "Face identical across all nine frames"
+  },
+  "GridComposition": {
+    "Layout": "3x3 grid",
+    "PoseVariety": [
+      "Sitting on vintage motorcycle",
+      "Helmet hair flip",
+      "Close-up with aviator sunglasses",
+      "Riding highway motion",
+      "Leaning on gas tank",
+      "Adjusting leather gloves",
+      "Group ride formation",
+      "Gas station stop",
+      "Sunset silhouette on bike"
+    ]
+  },
+  "PersonaDetails": {
+    "Subject": {
+      "Type": "Same as reference",
+      "Wardrobe": "Black leather jacket, ripped jeans, motorcycle boots, bandana, silver rings",
+      "OverallPresence": "Road warrior, rebel freedom"
+    }
+  },
+  "Environment": {
+    "Setting": "Open highway/motorcycle route",
+    "Background": "Endless road, desert/mountain scenery, vintage gas stations",
+    "Lighting": {
+      "Style": "Harsh sun with chrome reflections",
+      "Quality": "Gritty, warm, cinematic"
+    }
+  },
+  "ImageQuality": {
+    "Resolution": "8K hyper-realistic",
+    "Aesthetic": "Harley-Davidson lifestyle campaign"
+  },
+  "NegativePrompt": [
+    "urban traffic",
+    "scooter",
+    "different face",
+    "altered facial features"
+  ],
+  "ResponseFormat": {
+    "Layout": "3x3 grid",
+    "AspectRatio": "1:1"
+  }
+}
+
+
+6.
+{
+  "Objective": "Create a stylish, cinematic birthday-themed studio portrait with a modern celebratory poster aesthetic",
+  "PersonaDetails": {
+    "Subject": {
+      "Type": "Young man",
+      "Pose": "Sitting casually on the floor",
+      "Expression": "Confident, friendly smile",
+      "Gaze": "Looking directly at the camera",
+      "Accessories": [
+        "Glasses",
+        "Wristwatch"
+      ]
+    }
+  },
+  "Wardrobe": {
+    "Top": "Dark grey sweater",
+    "Bottom": "Black trousers",
+    "Footwear": "Black leather boots",
+    "Style": "Clean, modern, understated"
+  },
+  "SceneDescription": {
+    "Environment": "Studio setting",
+    "Background": {
+      "Color": "Deep purple",
+      "Details": "Subtle glowing particles floating in the background"
+    }
+  },
+  "GraphicElements": {
+    "Typography": {
+      "Text": "Happy Birthday",
+      "Style": "Neon typography",
+      "Color": "Soft purple and white glow",
+      "Placement": "Top corner of the composition"
+    },
+    "FloatingFrames": {
+      "Description": "Multiple framed portrait snapshots of the same person",
+      "Variations": [
+        "Different poses and moods",
+        "Film negative–style frames",
+        "Neon-outlined light frames"
+      ],
+      "Arrangement": "Floating around the subject with balanced spacing"
+    }
+  },
+  "Composition": {
+    "Framing": "Medium full-body portrait",
+    "Layout": "Centered subject with surrounding floating elements",
+    "Balance": "Clean, poster-style composition",
+    "DepthOfField": "Shallow depth of field with layered depth"
+  },
+  "LightingAndColor": {
+    "LightingStyle": "Cinematic studio lighting",
+    "RimLight": "Soft purple rim light for edge separation",
+    "Contrast": "High contrast with controlled highlights",
+    "ColorPalette": [
+      "Deep purple",
+      "Black",
+      "Soft white highlights"
+    ]
+  },
+  "ArtDirection": {
+    "Style": "Modern celebratory poster",
+    "Aesthetic": "Stylish, cinematic, social-media–ready",
+    "DetailLevel": "Ultra-detailed textures and crisp edges",
+    "RealismLevel": "Photorealistic with graphic design overlays"
+  },
+  "PhotographyStyle": {
+    "Genre": "Professional studio portrait photography",
+    "Finish": "High-end, polished, digital poster look",
+    "Resolution": "Ultra-high resolution, sharp focus"
+  },
+  "Mood": {
+    "Tone": "Celebratory, confident, modern",
+    "Energy": "Positive, stylish, personal"
+  },
+  "NegativePrompt": [
+    "messy composition",
+    "low resolution",
+    "flat lighting",
+    "oversaturated neon",
+    "cartoon style",
+    "blurry text",
+    "cluttered background"
+  ],
+  "ResponseFormat": {
+    "Type": "Single composite image",
+    "Orientation": "Portrait",
+    "AspectRatio": "4:5",
+    "UseCase": [
+      "Social media post",
+      "Birthday poster",
+      "Digital celebration graphic"
+    ]
+  }
+}
+
+
+7.
+# Role
+You are an expert AI Art Director. Your goal is to generate a highly structured Image Generation Prompt (for Midjourney V6) based on a user-provided [SCENARIO].
+
+# Objective
+Create a prompt for a **Strict 3x3 Grid Collage** (9 equal panels) that visualizes the [SCENARIO] step-by-step. The layout must be uniform, like a contact sheet or an instructional matrix.
+
+# Style DNA (New Chinese Ink Wash & 90s Animation)
+* **Art Style:** New Chinese Ink Wash (新中式水墨), Shanghai Animation Film Studio 1990s style (上美影风格).
+* **Technique:** "Da Qiao Ruo Zhuo" (Clumsy but skillful), heavy ink outlines, rice paper texture, watercolor bleeding.
+* **Color:** Low saturation mineral colors (Earthy yellow, Indigo, Vermilion).
+* **Layout Constraint:** **Strict 3x3 Matrix**. 9 distinct, equal-sized square panels. No irregular comic strips. No speech bubbles.
+
+# Workflow
+1.  **Deconstruct [SCENARIO]:** Break the event into exactly 9 chronological steps.
+2.  **Simplify Scenes:** Keep visual descriptions concise for each panel (too much detail breaks the grid).
+3.  **Construct Prompt:** Use the output format below to enforce the grid structure.
+
+# Output Format (Strictly produce ONLY this English Prompt)
+
+**[Structure Triggers]**
+A symmetrical 3x3 grid collage, matrix layout, split screen into 9 equal panels, contact sheet style, precise grid alignment.
+
+**[Content - The 9 Steps]**
+* **Panel 1 (Top-Left):** [Step 1: Preparation visual]
+* **Panel 2 (Top-Center):** [Step 2 visual]
+* **Panel 3 (Top-Right):** [Step 3 visual]
+* **Panel 4 (Mid-Left):** [Step 4 visual]
+* **Panel 5 (Mid-Center):** [Step 5 Main Action/Climax]
+* **Panel 6 (Mid-Right):** [Step 6 visual]
+* **Panel 7 (Bottom-Left):** [Step 7 visual]
+* **Panel 8 (Bottom-Center):** [Step 8 visual]
+* **Panel 9 (Bottom-Right):** [Step 9 Conclusion visual]
+
+**[Global Style Modifiers]**
+All panels in the style of 1990s Shanghai Animation Film Studio, New Chinese Ink Wash painting, rice paper texture, heavy ink contours, gouache texture, nostalgic rural China atmosphere, minimalist composition, low saturation. --no text, speech bubbles, irregular borders, messy layout
+
+**[Parameters]**
+--ar 3:4 --v 6.0 --stylize 250
+
+---
+# User Input
+**SCENARIO:** [农村杀年猪场景]
+
+8.
+{
+  "scene_1_mickey_minnie": {
+    "prompt": "A hyperrealistic, editorial fashion photograph in a studio setting. A real human model with a natural, confident expression and a preserved face stands between giant, photorealistic 3D animated characters, Mickey Mouse and Minnie Mouse. The human wears a chunky knitted sweater in pastel pink and cream tones, high-waisted light blue jeans, and clean white minimalist sneakers. Mickey poses with his classic cheerful stance, showing realistic gloves, fabric textures, and slight scuff details. Minnie stands slightly to the side with a playful tilt, wearing her iconic polka dot dress and bow, rendered with detailed fabric and subtle wear. The background is a clean split studio backdrop of soft sky blue and light peach. Soft, professional studio lighting highlights textures of knitwear, denim, and animated fabrics, preserving their identity. 3/4 body framing, magazine-cover quality."
+  },
+  "scene_2_tyranitar": {
+    "prompt": "A hyperrealistic, premium fashion photograph in a studio setting. A real human model with a confident, defiant expression and a preserved face stands next to a massive, imposing 3D animated Tyranitar, rendered in photorealistic quality. The human wears a dark forest green knitted sweater, black slim-fit jeans, and white sneakers, posing with their body slightly angled toward the camera. Tyranitar towers with textured, rocky green skin, sharp claws, and a realistic muscular frame, its tail curved behind. The background is a muted slate gray studio backdrop with subtle green ambient light accents. Soft but contrast-rich studio lighting defines textures and mass. 3/4 body framing, editorial aesthetic."
+  },
+  "scene_3_iron_man_captain_marvel": {
+    "prompt": "A modern, urban, premium fashion photograph in a studio setting. A real human model with a cool, composed expression and a preserved face stands between near-human scale photorealistic 3D animated renders of Iron Man and Captain Marvel. The human wears a knitted sweater with metallic red and deep blue accents, high-waisted dark jeans, and clean white sneakers. Iron Man stands casually in his armor, showing realistic metal textures, reflections, and glowing repulsors. Captain Marvel stands confidently on the other side, rendered with photorealistic suit textures, flowing hair, and a determined expression. The background is deep concrete gray with subtle gold and red light accents. Soft studio lighting with defined rim light separates all figures. 3/4 framing, modern editorial look."
+  },
+  "scene_4_studio_groot": {
+    "prompt": "A relaxed, premium fashion portrait in a studio setting. A real human model with a confident, charming smile and a preserved face rests an arm naturally on the shoulder of a true human scale photorealistic 3D animated character, Groot. The human wears a soft beige knitted sweater, high-waisted dark jeans, and clean white sneakers. Groot, rendered with hyperrealistic wooden textures, moss accents, and expressive eyes, stands with a calm, friendly posture. The background is a clean warm taupe studio backdrop. Soft studio lighting with subtle rim light enhances the textures of wood and clothing and creates a natural chemistry. 3/4 framing, high-end fashion editorial."
+  }
+}
+
+9.
+{
+  "juice_boxes": [
+    {
+      "id": 1,
+      "product": {
+        "brand": "Tip-Top",
+        "flavor": "Strawberry",
+        "image": {
+          "description": "strawberry juice with ripe strawberries",
+          "background": {
+            "color": "fresh pastel pink",
+            "elements": [
+              "strawberry halves",
+              "juice splashes",
+              "dynamic swirling around the pack"
+            ]
+          }
+        }
+      },
+      "design": {
+        "style": {
+          "detail": "high-quality detail",
+          "texture": "commercial-grade photorealism"
+        },
+        "aspect_ratio": "2:3"
+      }
+    },
+    {
+      "id": 2,
+      "product": {
+        "brand": "Tip-Top",
+        "flavor": "Mango",
+        "image": {
+          "description": "mango juice with ripe golden mangoes",
+          "background": {
+            "color": "tropical orange-yellow gradient",
+            "elements": [
+              "mango cubes",
+              "swirling juice streams",
+              "energetic and appetizing scene"
+            ]
+          }
+        }
+      },
+      "design": {
+        "style": {
+          "texture": "ultra-realistic packaging material texture"
+        },
+        "aspect_ratio": "2:3"
+      }
+    },
+    {
+      "id": 3,
+      "product": {
+        "brand": "Tip-Top",
+        "flavor": "Grape",
+        "image": {
+          "description": "grape juice with purple grapes",
+          "background": {
+            "color": "deep purple gradient",
+            "elements": [
+              "grape bunches",
+              "glossy juice splashes",
+              "surrounding the carton"
+            ]
+          }
+        }
+      },
+      "design": {
+        "style": {
+          "tone": "elegant",
+          "mood": "lively commercial promotion style"
+        },
+        "aspect_ratio": "2:3"
+      }
+    }
+  ]
+}

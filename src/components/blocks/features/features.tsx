@@ -30,23 +30,23 @@ export default function FeaturesSection() {
 
   const images = {
     'item-1': {
-      image: 'https://cdn.mksaas.com/blocks/charts-light.png',
-      darkImage: 'https://cdn.mksaas.com/blocks/charts.png',
+      image: '/features-item1-light.png',
+      darkImage: '/features-item1-dark.png',
       alt: 'Product Feature One',
     },
     'item-2': {
-      image: 'https://cdn.mksaas.com/blocks/music-light.png',
-      darkImage: 'https://cdn.mksaas.com/blocks/music.png',
+      image: '/features-item2-light.png',
+      darkImage: '/features-item2-dark.png',
       alt: 'Product Feature Two',
     },
     'item-3': {
-      image: 'https://cdn.mksaas.com/blocks/mail2-light.png',
-      darkImage: 'https://cdn.mksaas.com/blocks/mail2.png',
+      image: '/features-item3-light.png',
+      darkImage: '/features-item3-dark.png',
       alt: 'Product Feature Three',
     },
     'item-4': {
-      image: 'https://cdn.mksaas.com/blocks/payments-light.png',
-      darkImage: 'https://cdn.mksaas.com/blocks/payments.png',
+      image: '/features-item4-light.png',
+      darkImage: '/features-item4-dark.png',
       alt: 'Product Feature Four',
     },
   };
