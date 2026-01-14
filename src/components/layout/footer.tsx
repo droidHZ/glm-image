@@ -86,6 +86,72 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
         </div>
       </Container>
 
+      {/* Embed links and badges */}
+      <div className="border-t py-8">
+        <Container className="px-4">
+          <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
+            <a
+              href="https://backlinkdirs.com/item/glm-image-ai-generator"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-muted-foreground hover:text-primary"
+            >
+              Backlink Dirs
+            </a>
+
+            <a
+              href="https://toolfame.com/item/glm-image-ai-generator"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://toolfame.com/badge-light.svg"
+                alt="Featured on toolfame.com"
+                className="h-[54px] w-auto"
+              />
+            </a>
+
+            <a
+              href="https://twelve.tools"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://twelve.tools/badge0-dark.svg"
+                alt="Featured on Twelve Tools"
+                width="200"
+                height="54"
+              />
+            </a>
+
+            <a
+              href="https://fazier.com/launches/glm-image.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=launched&theme=light"
+                width={120}
+                alt="Fazier badge"
+              />
+            </a>
+
+            <a
+              href="https://startupfa.me/s/glm-image?utm_source=glm-image.ai"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://startupfa.me/badges/featured-badge.webp"
+                alt="GLM Image - Featured on Startup Fame"
+                width={171}
+                height={54}
+              />
+            </a>
+          </div>
+        </Container>
+      </div>
+
       <div className="border-t py-8">
         <Container className="px-4 flex items-center justify-between gap-x-4">
           <span className="text-muted-foreground text-sm">
