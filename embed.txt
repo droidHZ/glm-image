@@ -10,3 +10,10 @@
 
 <a href="https://startupfa.me/s/glm-image?utm_source=glm-image.ai" target="_blank"><img src="https://startupfa.me/badges/featured-badge.webp" alt="GLM Image - Featured on Startup Fame" width="171" height="54" /></a>
 
+<a href="https://turbo0.com/item/glm-image-ai-generator" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.turbo0.com/badge-listed-light.svg" alt="Listed on Turbo0" style="height: 54px; width: auto;" />
+</a>
+
+<a href="https://www.superlaun.ch/products/1431" target="_blank" rel="noopener">
+  <Image src="https://www.superlaun.ch/badge.png" alt="Featured on Super Launch" width="300" height="300" />
+</a>

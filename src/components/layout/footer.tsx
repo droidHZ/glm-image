@@ -89,12 +89,12 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
       {/* Embed links and badges */}
       <div className="border-t py-8">
         <Container className="px-4">
-          <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
+          <div className="flex flex-nowrap items-center justify-center gap-3 overflow-x-auto">
             <a
               href="https://backlinkdirs.com/item/glm-image-ai-generator"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-muted-foreground hover:text-primary"
+              className="text-xs text-muted-foreground hover:text-primary whitespace-nowrap"
             >
               Backlink Dirs
             </a>
@@ -107,7 +107,7 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
               <img
                 src="https://toolfame.com/badge-light.svg"
                 alt="Featured on toolfame.com"
-                className="h-[54px] w-auto"
+                className="h-8 w-auto"
               />
             </a>
 
@@ -119,8 +119,7 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
               <img
                 src="https://twelve.tools/badge0-dark.svg"
                 alt="Featured on Twelve Tools"
-                width="200"
-                height="54"
+                className="h-8 w-auto"
               />
             </a>
 
@@ -131,8 +130,8 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
             >
               <img
                 src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=launched&theme=light"
-                width={120}
                 alt="Fazier badge"
+                className="h-8 w-auto"
               />
             </a>
 
@@ -143,9 +142,32 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
             >
               <img
                 src="https://startupfa.me/badges/featured-badge.webp"
-                alt="GLM Image - Featured on Startup Fame"
-                width={171}
-                height={54}
+                alt="Featured on Startup Fame"
+                className="h-8 w-auto"
+              />
+            </a>
+
+            <a
+              href="https://turbo0.com/item/glm-image-ai-generator"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://img.turbo0.com/badge-listed-light.svg"
+                alt="Listed on Turbo0"
+                className="h-8 w-auto"
+              />
+            </a>
+
+            <a
+              href="https://www.superlaun.ch/products/1431"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://www.superlaun.ch/badge.png"
+                alt="Featured on Super Launch"
+                className="h-8 w-auto"
               />
             </a>
           </div>
