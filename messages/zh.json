@@ -817,6 +817,11 @@
       "generateError": "图片生成失败",
       "promptRequired": "请输入提示词"
     },
+    "gallery": {
+      "title": "提示词画廊",
+      "subtitle": "获取灵感",
+      "description": "探索我们精心策划的专业提示词集合。点击任何示例即可立即将其加载到生成器中并开始创作。"
+    },
     "logocloud": {
       "title": "您最爱公司都是我们的合作伙伴"
     },

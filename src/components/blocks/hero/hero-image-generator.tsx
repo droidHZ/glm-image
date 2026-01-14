@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { useSession } from '@/hooks/use-session';
 import { cn } from '@/lib/utils';
+import { usePromptStore } from '@/stores/prompt-store';
 import { Loader2, Sparkles } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import { useAction } from 'next-safe-action/hooks';
@@ -23,7 +24,7 @@ const ASPECT_RATIOS = [
 export function HeroImageGenerator() {
   const t = useTranslations('HomePage.heroGenerator');
   const session = useSession();
-  const [prompt, setPrompt] = useState('');
+  const { prompt, setPrompt } = usePromptStore();
   const [aspectRatio, setAspectRatio] = useState<string>('1:1');
   const [generatedImage, setGeneratedImage] = useState<string | null>(null);
 

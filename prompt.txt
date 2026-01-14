@@ -1,26 +1,138 @@
 1.
-A magazine cover of a cheerful 20-year-old Chinese woman with messy long hair tied with a silk ribbon, laughing while sitting at a vintage wooden table in a seaside cafe. She wears a vintage floral sundress and retro sunglasses on her head. An iced coffee and a half-eaten croissant are on the table. Dappled sunlight filtering through leaves, warm golden hour glow, Kodak Gold 200 film aesthetic, slight halation, nostalgic mood, candid snapshot style. 8K resolution.
-
-Magazine layout:
-Title "SUNDAY".
-Cover text: "Golden Hour", "Slow Living", "July Edition 2025".
-Barcode bottom. Playful retro 70s typography in orange and cream.
+Close-up shot. Using a reference photo, maintaining 100% facial similarity, create an ultra-high-resolution photorealistic portrait of a young woman with chibi proportions, shot from an extreme high/above angle, gazing intently upwards at the camera from above her head with a cute pouting expression and round, chubby cheeks. Her face is turned slightly to the side.
+Blend her facial features to look chibi yet realistic—a round, youthful face, soft, baby-like cheeks, a small, delicate nose, and large, sweet, warm brown eyes with a soft sparkle. Her expression is innocent, curious, and very kawaii, not at all mature or flirtatious.
+Her skin appears porcelain-smooth, naturally radiant, with a soft pink blush, rosy lips, and minimal Korean-style makeup (dewy skin, thin natural eyebrows, natural eyelashes).
+Her dark brown, shoulder-length hair is gently wavy, with a natural part.
+She wears a cute pastel green dinosaur onesie with a hoodie, the details are neat, and it feels comfortable and youthful.  His hands are relaxed at his sides. The dinosaur head on the hoodie is clearly visible. Wissy
+Just a man's hands (no face, no visible body, bare arms) gently lift the edges of the hoodie's hood from above, resting on the sides/top of his head. The hands look natural, warm, and realistic, creating a protective and loving candid moment.
+Location: Inside a modern elevator,
+clean metal walls with symmetrical vertical lines,
+light-colored tile floor,
+minimal background distractions.
+Lighting: Soft and diffused indoor light, flattering, even, and dreamy—no harsh shadows.
+Camera & Realism:
+– DSLR-quality realism
+– Shallow depth of field
+– Ultra-sharp facial focus
+Mood & Vibe: Sweet, warm, innocent, super adorable, and heart-melting, like a spontaneous candid moment captured naturally.
+No anime, no cartoons, no CGI, no excessive smoothing, no stylized doll features. No fake eyes.
 
 2.
-A 9:16 vertical screen high-end fashion illustration mood board, simulating a tablet scan effect. The background is pure hand-drawn creamy watercolor gradient paper with a faint pink grid. The visual core consists of several glossy vinyl stickers with distinct white die-cut wide borders and soft shadows. The central sticker is a photo of the user wearing a sweet date outfit, with bright lighting. On the left side is a deconstructed sticker of this outfit: a neatly folded jacket and exquisite high heels. In the bottom right corner is the key hidden layer sticker: a chic open mini-handbag revealing daily essentials like a tube of lipstick and vintage sunglasses, showcasing leather and glass textures. A Labubu art doll sticker in pink tones that echoes the user's clothing is lying on a hand-drawn speech bubble. The surroundings are decorated with crayon-textured hand-drawn hearts, sparkle symbols, and scribbled Chinese calligraphy annotations for OOTD. The image contains absolutely no human hands, pens, or physical desktop backgrounds—pure flat art illustration.
-
+"A crowded, vibrant composition featuring multiple photographic cutouts of the same subject layered over a textured pink background.",
+      "key_elements": {"White sticker outlines around the subject cuts, sparkle effects, floating graphics, and ransom-note style text."
+    },
+    "subject_details": {
+      "demographics": "Young Asian woman (K-pop idol visual), fair porcelain skin, soft feminine features.",
+      "hair": "Long, voluminous jet-black hair with see-through bangs (air bangs). Styled straight or with very loose waves.",
+      "makeup": "Pink-toned 'wonyoung' or 'douyin' makeup: gradient pink lips, heavy pink blush on apple of cheeks and nose tip, glitter eyeshadow, sharp eyeliner.",
+      "jewelry": "Pearl drop earrings, delicate silver necklace, silver rings, and a baby pink digital watch (Casio style) with a beaded bracelet."
+    },
+    "outfit_details": {
+      "style": "High-teen / Preppy School Uniform.",
+      "garments": {
+        "outer": "Pastel pink fitted blazer with dark grey piping and a gold school crest emblem on the pocket.",
+        "inner": "White button-up shirt.",
+        "neckwear": "Large pink satin bow tie.",
+        "bottom": "Pink and white plaid pleated mini skirt.",
+        "legwear": "White knee-high socks.",
+        "footwear": "White Mary Jane shoes."
+      }
+    },
+    "pose_layout_breakdown": {
+      "main_portrait_bottom_right": "Large close-up. Subject holding both hands against her cheeks (flower pose), looking slightly to the side with a dreamy expression.",
+      "upper_left_cutout": "Waist-up shot. Subject adjusting her bow tie with both hands, looking forward.",
+      "full_body_insert_bottom_left": "Miniature full-body cutout. Standing straight with arms at sides, neutral sweet pose.",
+      "top_right_cutout": "Headshot. Smiling gently at the camera.",
+      "middle_right_cutout": "Close-up. Smiling brightly."
+    },
+    "graphic_overlays": {
+      "stickers": "Pink heart balloons, iridescent butterflies, cherry blossom flowers, music notes, white stars.",
+      "text": "Ransom-note style text reading 'IQRASAIFIII' at the bottom.",
+      "background_texture": "Pink gingham pattern mixed with floral textures and soft bokeh."
+    },
+    "camera_technical_values": {
+      "source_photography_style": "High-end Commercial Studio Portraiture.",
+      "focal_length": "85mm (Flattering portrait lens for the cutouts).",
+      "aperture": "f/4.0 (Sharp focus on subject faces).",
+      "shutter_speed": "N/A (Collage).",
+      "iso": "ISO 100.",
+      "lighting_setup": "High-Key Beauty Lighting. Large bright softbox from the front to eliminate shadows on the face. Ring light reflections visible in the eyes.",
+      "color_grading": "Pastel pink dominant, high saturation, slightly overexposed for a 'bloom' effect."
+    }
 
 3.
-An illustration of an anthropomorphic orange fox taking a nap on a large, soft green beanbag chair. The fox is wearing round glasses, a casual outfit with sneakers, and has a peaceful expression. Beside the chair on the floor sits a retro brown radio with a glowing dial. The art style is painterly with visible textures, resembling a modern storybook illustration. The lighting is warm and cozy, suggesting a lazy afternoon. Isolated on a plain white background.
+{
+  "protocol_manifest": {
+    "version": "14.1_retro_dynamic_fingerheart",
+    "objective": "90s Lo-Fi Film Portrait with Panning Motion",
+    "aspect_ratio": "4:5",
+    "rendering_engine": {
+      "type": "Analog Film Simulation",
+      "fidelity_tier": "Raw Scan / Texture Rich",
+      "special_technique": "Slow Shutter Panning + Flash Freeze"
+    }
+  },
+  "subject_logic": {
+    "biometric_layer": {
+      "identity_target": "Young cute Korean K-pop idol",
+      "archetype": "Pure / Fresh face / Innocent charm",
+      "facial_configuration": {
+        "gaze": "Sweet, engaging eye contact with the mirror reflection",
+        "expression": "Gentle, warm smile / Making a small finger heart gesture (thumb and index finger crossed) near her cheek",
+        "makeup": "Light, youthful 'fruit juice' makeup style, glossy lips"
+      }
+    },
+    "hair_and_style": {
+      "style": "Soft, dark wavy hair with cute bangs",
+      "accessory": "Colorful retro hair clips or scrunchie visible"
+    }
+  },
+  "wardrobe_logic": {
+    "apparel_specs": {
+      "primary_garment": {
+        "type": "Oversized vintage colorful knit cardigan",
+        "layers": "Worn over a cute graphic baby tee",
+        "style": "Y2K / 90s cozy retro cute"
+      }
+    }
+  },
+  "prop_logic": {
+    "environment_props": {
+      "main_prop": "Large vintage wall mirror with an ornate, slightly worn frame",
+      "decorations": "Mirror covered with cute stickers, polaroids, and handwritten notes",
+      "foreground_elements": "Blurry retro items suggesting a messy teen room (plushies, colorful cups)"
+    }
+  },
+  "environment_logic": {
+    "scenography": {
+      "location": "Cozy, cluttered backstage dressing room or bedroom",
+      "vibe": "Nostalgic, intimate, warm, chaotic cute"
+    },
+    "illumination_architecture": {
+      "source": "On-camera Direct Flash (Point-and-shoot style)",
+      "characteristics": {
+        "shadows": "Harsh, defined flash shadows behind the subject",
+        "highlights": "Bright specular reflection of the flash bulb visible in the mirror"
+      }
+    }
+  },
+  "technical_logic": {
+    "optical_configuration": {
+      "shot_type": "Medium portrait capturing reflection (Photographer not visible)",
+      "lens_simulation": "35mm compact film camera lens",
+      "motion_effect": "Significant horizontal motion blur (panning streaks) on background and edges, subject relatively frozen by flash"
+    },
+    "film_simulation_directives": {
+      "film_stock": "Fuji Superia 800 / Kodak Portra 400 (Pushed)",
+      "noise_profile": "Heavy, visible film grain and color noise",
+      "color_grading": "Lo-fi, warm greenish tint typical of cheap film scans, vibrant reds and yellows",
+      "artifacts": "Light leaks, dust specks, vignetting from flash fall-off"
+    }
+  }
+}
 
 4.
-A magazine cover of a stylish 20-year-old Chinese woman with bob-cut hair, casually leaning against a teal tram in a quiet early-morning street market. She wears a cream knit sweater and pleated trousers. A paper bag filled with fresh chrysanthemums rests at her feet. Soft diffused dawn light, delicate pastel palette, Fuji Pro 160NS style, grainy but silky texture, shallow depth of field, slightly underexposed shadows, fashion editorial angle. 8K resolution.
-
-Magazine layout:
-Title “MORNING LINES”.
-Cover text: “City Calm”, “Shanghai Flow”, “Vol. 18 | October 2025”.
-Barcode bottom.
-
+Studio shot of a [PRODUCT], elegantly positioned on a [background], soft ambient shadows, smooth gradient backdrop, high-key lighting, shallow depth of field, ultra-sharp focus on the subject, subtle reflections, minimal aesthetic, professional DSLR, premium commercial lighting setup, optimized for high-end product presentation
 
 5.
 {
@@ -313,3 +425,45 @@ All panels in the style of 1990s Shanghai Animation Film Studio, New Chinese Ink
     }
   ]
 }
+
+10.
+high quality fantasy concept art in warm orange tones. an endless cracked wasteland stretches to the horizon, the ground like dried lakebed and desert mixed, covered in huge fissures and deep chasms. in the foreground a lone cloaked wanderer stands on the edge of a crack, seen from behind, looking toward the distance, very small against the landscape. far away on a rocky rise stands a towering gothic castle / cathedral, filled with countless tall spires stabbing into the sky, intricate and imposing, both holy and ominous. the sky is hazy and bright, tinted with orange dust, with faint silhouettes of distant mountains. strong leading lines from the ground fractures toward the castle, vast, epic, slightly apocalyptic mood, no text, no watermark.
+
+11.
+Premium Japanese-style product poster in 16:9 landscape format, editorial design showcasing kiwi juice skin packaging concept with sophisticated visual storytelling:
+
+LEFT SIDE (40% of canvas):
+- Hero product: One large kiwi juice skin package displayed vertically with dramatic soft lighting, showing ultra-realistic kiwi peel texture wrapped around rectangular container, fuzzy brown skin with thousands of fine visible hair-like fibers covering entire surface, rough natural texture, brown color with subtle variations, looks exactly like real kiwi skin stretched over package
+- Below: One cross-sectioned fresh kiwi showing vibrant green creamy flesh with black seeds radiating from white center
+- Japanese typography vertically aligned: "キウイスキン" (Kiwi Skin) in elegant thin gothic font
+- Subtitle: "果汁皮肤 / 猕猴桃" in refined style
+- Small design philosophy text in Japanese
+
+CENTER (30% of canvas):
+- Generous white negative space (Ma - 間)
+- Minimal geometric elements: delicate thin lines
+- Floating text: "自然な素材" (natural materials)
+- Subtle minimalist brand mark
+- Very subtle kiwi fuzz texture pattern in background (low opacity)
+
+RIGHT SIDE (30% of canvas):
+- Two kiwi juice skin packages arranged artistically at different angles and heights
+- One whole fresh kiwi with natural fuzzy brown skin
+- Typography: "Natural Packaging / 自然な包装"
+- Tagline: "The skin is the package / 皮膚が包装である"
+- Detail callouts pointing to fuzzy hair texture
+
+DESIGN PRINCIPLES: Abundant white space, asymmetrical balance, Wabi-sabi aesthetic, Muji/Noritake editorial minimalism
+COLOR PALETTE: brown kiwi tones, pure white background, bright green accent from flesh
+PHOTOGRAPHY: Soft diffused studio lighting, ultra-sharp macro details showing fuzzy texture, photorealistic rendering
+CRITICAL: The kiwi skin packaging must look incredibly realistic - actual organic fuzzy brown texture with thousands of tiny brown hairs, rough natural appearance, NOT plastic
+
+16:9 widescreen, high-end Japanese product poster, gallery quality
+
+12.
+[
+  PERSON NAME
+]. Act as a high-end sports graphic designer creating a conceptual tribute poster. The style is a complex "dual exposure photo-grid composite" with mixed-media textures. CENTRAL STRUCTURE (THE VESSEL): The central focus is a large-scale,
+high-contrast black and white portrait silhouette of [
+  PERSON NAME
+]. This main portrait acts as the container. THE GRID FILL & TEXTURES (MIXED MEDIA): The interior of the silhouette is populated by a dense "photo mosaic grid" of action shots from the person's career. CRITICAL TEXTURE INSTRUCTION: Do not just paste flat photos. Apply artistic textures to various grid cells to create a tactile, collage feel. Use effects like: Halftone Dots: Comic-book style raster patterns on some cells. Fabric/Embroidery: Subtle thread or canvas textures suggesting a jersey or patch. Film Grain: Heavy noise on specific high-contrast action shots. COLOR STRATEGY: The base is Monochrome B&W. Use selective color overlays (relevant to the team/flag) ONLY on specific grid cells to create a rhythm. TYPOGRAPHY & BRANDING (STRICT MICRO-SCALING): Top Left (The Name): Write "[PERSON NAME]" strictly using the font Inter Semibold. Kerning: Tight negative kerning (-4%). Size: SMALL and discreet. It must occupy MAXIMUM 20% of the canvas width. Do NOT make it large or loud. Top Right (The Symbol): Place the primary logo (Team/Brand/Flag). Size: VERY SMALL. It must occupy MAXIMUM 10% of the canvas width. COMPOSITION & BACKGROUND: Background: Off-white or light grey with a visible high-quality paper or concrete texture. It should not be flat digital white. Alignment: Center the figure perfectly. Maintain wide negative space around the object.

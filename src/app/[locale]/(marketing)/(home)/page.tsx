@@ -5,6 +5,7 @@ import FaqSection from '@/components/blocks/faqs/faqs';
 import FeaturesSection from '@/components/blocks/features/features';
 import Features2Section from '@/components/blocks/features/features2';
 import Features3Section from '@/components/blocks/features/features3';
+import GallerySection from '@/components/blocks/gallery/gallery';
 import HeroSection from '@/components/blocks/hero/hero';
 import HowItWorksSection from '@/components/blocks/howitworks/howitworks';
 import PricingSection from '@/components/blocks/pricing/pricing';
@@ -47,6 +48,8 @@ export default async function HomePage(props: HomePageProps) {
     <>
       <div className="flex flex-col">
         <HeroSection />
+
+        <GallerySection />
 
         <StatsSection />
 

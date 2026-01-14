@@ -817,6 +817,11 @@
       "generateError": "Failed to generate image",
       "promptRequired": "Please enter a prompt"
     },
+    "gallery": {
+      "title": "Prompt Gallery",
+      "subtitle": "Get Inspired",
+      "description": "Explore our curated collection of professional prompts. Click any example to instantly load it into the generator and start creating."
+    },
     "logocloud": {
       "title": "Your favorite companies are our partners"
     },
