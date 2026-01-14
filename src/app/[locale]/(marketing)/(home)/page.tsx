@@ -10,6 +10,7 @@ import HeroSection from '@/components/blocks/hero/hero';
 import HowItWorksSection from '@/components/blocks/howitworks/howitworks';
 import PricingSection from '@/components/blocks/pricing/pricing';
 import StatsSection from '@/components/blocks/stats/stats';
+import UseCasesSection from '@/components/blocks/usecases/usecases';
 import CrispChat from '@/components/layout/crisp-chat';
 import { constructMetadata } from '@/lib/metadata';
 import type { Metadata } from 'next';
@@ -58,6 +59,8 @@ export default async function HomePage(props: HomePageProps) {
         <FeaturesSection />
 
         <Features2Section />
+
+        <UseCasesSection />
 
         <HowItWorksSection />
 

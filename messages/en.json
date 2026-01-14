@@ -1105,6 +1105,37 @@
         }
       }
     },
+    "usecases": {
+      "title": "Perfect For",
+      "subtitle": "Use Cases",
+      "description": "GLM Image AI Generator is designed for scenarios where structure, clarity, and meaning matter more than pure visual style.",
+      "items": {
+        "item-1": {
+          "title": "Infographics & Data Visualization",
+          "description": "Create clean and readable infographics with clear hierarchy, labels, and layout. Ideal for blogs, reports, dashboards, and educational content that needs structured visuals."
+        },
+        "item-2": {
+          "title": "Diagrams & Explanations",
+          "description": "Generate diagrams for technical, educational, or conceptual explanations. GLM Image works well for flowcharts, process diagrams, and step-by-step visuals."
+        },
+        "item-3": {
+          "title": "Educational Content",
+          "description": "Produce illustrations for learning materials, presentations, and knowledge sharing. Useful for science, technology, history, and professional training scenarios."
+        },
+        "item-4": {
+          "title": "Posters & Marketing Visuals",
+          "description": "Design posters and promotional visuals with better text placement and balanced composition. Suitable for announcements, social media posts, and landing page visuals."
+        },
+        "item-5": {
+          "title": "Professional & Business Use",
+          "description": "Create images for presentations, internal documents, product overviews, and proposals—without needing design tools or experience."
+        },
+        "item-6": {
+          "title": "Experimentation & Prototyping",
+          "description": "Quickly explore visual ideas and concepts when structure and clarity are important, not just artistic style."
+        }
+      }
+    },
     "howitworks": {
       "title": "How It Works",
       "subtitle": "Simple Process",
