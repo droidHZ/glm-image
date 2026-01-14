@@ -39,7 +39,7 @@ export interface MetadataConfig {
 }
 
 export interface ModeConfig {
-  defaultModel?: 'light' | 'dark' | 'system';                  // The default mode of the website
+  defaultMode?: 'light' | 'dark' | 'system';                  // The default mode of the website
   enableSwitch?: boolean;                                     // Whether to enable the mode switch
 }
 
