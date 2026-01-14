@@ -100,6 +100,16 @@ export function Footer({ className }: React.HTMLAttributes<HTMLElement>) {
             </a>
 
             <a
+              href="https://mossai.org"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="MossAI Tools"
+              className="text-xs text-muted-foreground hover:text-primary whitespace-nowrap"
+            >
+              MossAI Tools
+            </a>
+
+            <a
               href="https://toolfame.com/item/glm-image-ai-generator"
               target="_blank"
               rel="noopener noreferrer"

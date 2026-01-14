@@ -21,3 +21,5 @@
 <a href="https://launchigniter.com/product/glm-image-ai-generator?ref=badge-glm-image-ai-generator" target="_blank">
   <img src="https://launchigniter.com/api/badge/glm-image-ai-generator?theme=light" alt="Featured on LaunchIgniter" width="212" height="55" />
 </a>
+
+<a href="https://mossai.org" title="MossAI Tools">MossAI Tools</a>
