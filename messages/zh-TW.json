@@ -1,0 +1,296 @@
+{
+  "Metadata": {
+    "name": "glm-image.ai",
+    "title": "GLM Image AI 圖像生成器 – 使用 GLM Image 創建結構化圖像",
+    "description": "GLM Image AI 圖像生成器幫助您使用 GLM Image 創建結構化且知識豐富的圖像。生成具有更好佈局和文字精度的海報、圖表和視覺效果"
+  },
+  "HomePage": {
+    "title": "GLM Image AI 圖像生成器",
+    "description": "使用 AI 生成結構化且知識豐富的圖像",
+    "hero": {
+      "title": "GLM Image AI 圖像生成器",
+      "description": "創建具有清晰佈局、精確文字和強大提示理解能力的高品質圖像。GLM Image AI 圖像生成器是海報、圖表、資訊圖表和專業視覺效果的強大工具。",
+      "introduction": "獨立的 AI 圖像生成服務",
+      "primary": "立即試用 GLM Image",
+      "secondary": "了解更多"
+    },
+    "heroGenerator": {
+      "promptLabel": "描述您的圖像",
+      "promptPlaceholder": "您想看到什麼？",
+      "aspectRatioLabel": "長寬比",
+      "clear": "清除",
+      "generate": "生成",
+      "generating": "生成中...",
+      "loginToGenerateFree": "登入以免費生成",
+      "generateSuccess": "圖像生成成功！",
+      "generateError": "圖像生成失敗",
+      "promptRequired": "請輸入提示詞"
+    },
+    "gallery": {
+      "title": "提示詞畫廊",
+      "subtitle": "獲取靈感",
+      "description": "探索我們精心策劃的專業提示詞集合。點擊任何範例即可立即載入到生成器中並開始創作。"
+    },
+    "logocloud": {
+      "title": "您喜愛的公司是我們的合作夥伴"
+    },
+    "integration": {
+      "title": "整合",
+      "subtitle": "與您喜愛的工具整合",
+      "description": "與流行的平台和服務無縫連接，以增強您的工作流程。",
+      "learnMore": "了解更多",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        }
+      }
+    },
+    "integration2": {
+      "title": "與您喜愛的工具整合",
+      "description": "與流行的平台和服務無縫連接，以增強您的工作流程。",
+      "primaryButton": "開始使用",
+      "secondaryButton": "查看示範"
+    },
+    "features": {
+      "title": "為什麼使用 GLM Image AI 圖像生成器？",
+      "subtitle": "強大功能",
+      "description": "GLM Image 專為複雜且資訊豐富的視覺效果而設計，具有卓越的理解和佈局能力。",
+      "items": {
+        "item-1": {
+          "title": "更好的提示理解",
+          "description": "GLM Image 更有效地處理長而詳細的提示，生成符合預期結構和含義的圖像。"
+        },
+        "item-2": {
+          "title": "清晰的佈局和結構",
+          "description": "非常適合需要標題和章節、標籤和註釋以及平衡構圖的視覺效果。"
+        },
+        "item-3": {
+          "title": "增強的文字處理",
+          "description": "在生成包含文字的圖像時，GLM Image 的表現優於許多傳統圖像模型。"
+        },
+        "item-4": {
+          "title": "高效實用",
+          "description": "專為需要可用圖像而不僅僅是藝術實驗的用戶而設計。"
+        }
+      }
+    },
+    "features2": {
+      "title": "您可以使用 GLM Image 創建什麼？",
+      "subtitle": "使用案例",
+      "description": "從資訊圖表到教育內容，GLM Image 幫助您創建專業視覺效果。",
+      "feature-1": "資訊圖表和圖表",
+      "feature-2": "教育圖像",
+      "feature-3": "行銷和設計資產",
+      "feature-4": "專業和商業用途"
+    },
+    "features3": {
+      "title": "什麼是 GLM Image？",
+      "subtitle": "先進的 AI 技術",
+      "description": "GLM Image 是一種先進的 AI 圖像生成技術，專為複雜且資訊豐富的視覺效果而設計。",
+      "items": {
+        "item-1": {
+          "title": "語義理解",
+          "description": "深入理解提示的含義和意圖，實現精確的圖像生成。"
+        },
+        "item-2": {
+          "title": "邏輯佈局",
+          "description": "智能排列視覺元素，實現清晰有序的構圖。"
+        },
+        "item-3": {
+          "title": "可讀文字",
+          "description": "出色的文字渲染能力，適用於標籤、標題和註釋。"
+        },
+        "item-4": {
+          "title": "清晰的視覺層次",
+          "description": "結構化組織，有效引導觀眾的注意力。"
+        },
+        "item-5": {
+          "title": "專業品質",
+          "description": "適用於教育、商業和專業圖像創作。"
+        },
+        "item-6": {
+          "title": "實用結果",
+          "description": "專注於可用的真實世界視覺效果，而不僅僅是藝術實驗。"
+        }
+      }
+    },
+    "pricing": {
+      "title": "價格",
+      "subtitle": "價格",
+      "description": "選擇最適合您的方案"
+    },
+    "stats": {
+      "title": "受到創作者和專業人士的信賴",
+      "subtitle": "為什麼選擇 GLM Image",
+      "description": "GLM Image AI 圖像生成器為結構化且知識豐富的視覺效果提供卓越的結果",
+      "items": {
+        "item-1": {
+          "title": "強大的提示理解能力"
+        },
+        "item-2": {
+          "title": "清晰的結構和佈局"
+        },
+        "item-3": {
+          "title": "更好的文字渲染"
+        }
+      }
+    },
+    "comparison": {
+      "title": "GLM Image vs 典型的 AI 圖像生成器",
+      "subtitle": "看看差異",
+      "description": "將 GLM Image 的功能與傳統圖像生成模型進行比較",
+      "headers": {
+        "feature": "功能",
+        "glmImage": "GLM Image",
+        "typical": "典型模型"
+      },
+      "items": {
+        "item-1": {
+          "feature": "提示理解",
+          "glmImage": "優秀",
+          "typical": "中等"
+        },
+        "item-2": {
+          "feature": "佈局精度",
+          "glmImage": "高",
+          "typical": "低至中等"
+        },
+        "item-3": {
+          "feature": "文字清晰度",
+          "glmImage": "更好",
+          "typical": "經常失真"
+        },
+        "item-4": {
+          "feature": "結構化內容",
+          "glmImage": "強",
+          "typical": "弱"
+        },
+        "item-5": {
+          "feature": "實用性",
+          "glmImage": "高",
+          "typical": "有限"
+        }
+      }
+    },
+    "usecases": {
+      "title": "最適合用於",
+      "subtitle": "使用案例",
+      "description": "GLM Image AI 圖像生成器專為結構、清晰度和意義比純視覺風格更重要的場景而設計。",
+      "items": {
+        "item-1": {
+          "title": "資訊圖表和數據視覺化",
+          "description": "創建具有清晰層次結構、標籤和佈局的整潔且易讀的資訊圖表。非常適合需要結構化視覺效果的部落格、報告、儀表板和教育內容。"
+        },
+        "item-2": {
+          "title": "圖表和說明",
+          "description": "生成技術、教育或概念性說明的圖表。GLM Image 非常適合流程圖、過程圖和逐步視覺效果。"
+        },
+        "item-3": {
+          "title": "教育內容",
+          "description": "為學習材料、演示和知識分享製作插圖。適用於科學、技術、歷史和專業培訓場景。"
+        },
+        "item-4": {
+          "title": "海報和行銷視覺效果",
+          "description": "設計具有更好文字放置和平衡構圖的海報和宣傳視覺效果。適用於公告、社群媒體貼文和登陸頁面視覺效果。"
+        },
+        "item-5": {
+          "title": "專業和商業用途",
+          "description": "為演示、內部文件、產品概述和提案創建圖像——無需設計工具或經驗。"
+        },
+        "item-6": {
+          "title": "實驗和原型設計",
+          "description": "當結構和清晰度很重要時，快速探索視覺想法和概念，而不僅僅是藝術風格。"
+        }
+      }
+    },
+    "howitworks": {
+      "title": "如何運作",
+      "subtitle": "簡單流程",
+      "description": "透過四個簡單步驟生成專業圖像",
+      "items": {
+        "item-1": {
+          "title": "輸入您的提示詞",
+          "description": "用自然語言描述您的圖像想法。"
+        },
+        "item-2": {
+          "title": "AI 理解和規劃",
+          "description": "系統解釋結構、內容和意圖。"
+        },
+        "item-3": {
+          "title": "圖像生成",
+          "description": "模型生成結構化且精緻的圖像。"
+        },
+        "item-4": {
+          "title": "下載並使用",
+          "description": "可用於演示、網站或內容創作。"
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "開始使用 GLM Image 創作",
+      "description": "將您的想法轉化為清晰、結構化且有用的視覺效果。無論您是創作者、行銷人員、教育者還是建造者，GLM Image 都能幫助您生成專注於意義而不僅僅是風格的圖像。",
+      "primaryButton": "立即試用 GLM Image",
+      "secondaryButton": "了解更多"
+    },
+    "faqs": {
+      "title": "常見問題",
+      "subtitle": "關於 GLM Image 的常見問題",
+      "items": {
+        "item-1": {
+          "question": "這是官方的 GLM Image 網站嗎？",
+          "answer": "不是。這是一個獨立的 AI 圖像生成服務，與任何模型開發者無關。"
+        },
+        "item-2": {
+          "question": "GLM Image 能生成具有可讀文字的圖像嗎？",
+          "answer": "GLM Image 在處理文字、標題和標籤元素時通常比許多 AI 圖像模型表現更好。但是，結果可能會因提示的複雜性而異。"
+        },
+        "item-3": {
+          "question": "GLM Image 適合商業用途嗎？",
+          "answer": "是的。透過此服務生成的圖像可用於商業目的，但需遵守平台的服務條款。"
+        },
+        "item-4": {
+          "question": "我需要設計經驗才能使用 GLM Image 嗎？",
+          "answer": "不需要設計技能。只需描述您的想法，AI 就會為您生成圖像。"
+        },
+        "item-5": {
+          "question": "GLM Image 與其他 AI 圖像生成器有何不同？",
+          "answer": "是的。與許多主要關注藝術風格的圖像生成器相比，GLM Image 更適合結構化佈局、知識豐富的視覺效果以及包含文字和標籤的圖像。"
+        },
+        "item-6": {
+          "question": "哪些類型的圖像最適合 GLM Image？",
+          "answer": "GLM Image 特別適合資訊圖表、圖表和圖形、教育插圖以及海報和演示視覺效果。"
+        },
+        "item-7": {
+          "question": "生成圖像需要多長時間？",
+          "answer": "大多數圖像會在 30-60 秒內生成，具體取決於複雜性和伺服器負載。更詳細的提示可能需要稍長時間。"
+        }
+      }
+    },
+    "disclaimer": {
+      "title": "法律聲明",
+      "subtitle": "重要資訊",
+      "description": "本網站是一個獨立的 AI 圖像生成服務，不隸屬於、未經智譜 AI（智谱 AI）或其任何子公司的認可或關聯。「GLM Image」僅用於描述和資訊目的，以指示所使用的 AI 模型類型。所有商標、名稱和模型參考均屬於其各自所有者。"
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "Metadata": {
+    "name": "glm-image.ai",
+    "title": "GLM Image KI-Bildgenerator – Erstellen Sie strukturierte Bilder mit GLM Image",
+    "description": "Der GLM Image KI-Bildgenerator hilft Ihnen, strukturierte, wissensreiche Bilder mit GLM Image zu erstellen. Generieren Sie Poster, Diagramme und Visuals mit besserer Layoutgestaltung und Textgenauigkeit"
+  },
+  "HomePage": {
+    "title": "GLM Image KI-Bildgenerator",
+    "description": "Generieren Sie strukturierte, wissensreiche Bilder mit KI",
+    "hero": {
+      "title": "GLM Image KI-Bildgenerator",
+      "description": "Erstellen Sie hochwertige Bilder mit klarem Layout, präzisem Text und starkem Prompt-Verständnis. Der GLM Image KI-Bildgenerator ist ein leistungsstarkes Werkzeug für Poster, Diagramme, Infografiken und professionelle Visuals.",
+      "introduction": "Unabhängiger KI-Bildgenerierungsdienst",
+      "primary": "GLM Image jetzt testen",
+      "secondary": "Mehr erfahren"
+    },
+    "heroGenerator": {
+      "promptLabel": "Beschreiben Sie Ihr Bild",
+      "promptPlaceholder": "Was möchten Sie sehen?",
+      "aspectRatioLabel": "Seitenverhältnis",
+      "clear": "Löschen",
+      "generate": "Generieren",
+      "generating": "Wird generiert...",
+      "loginToGenerateFree": "Anmelden für kostenlose Generierung",
+      "generateSuccess": "Bild erfolgreich generiert!",
+      "generateError": "Bildgenerierung fehlgeschlagen",
+      "promptRequired": "Bitte geben Sie einen Prompt ein"
+    },
+    "gallery": {
+      "title": "Prompt-Galerie",
+      "subtitle": "Lassen Sie sich inspirieren",
+      "description": "Erkunden Sie unsere kuratierte Sammlung professioneller Prompts. Klicken Sie auf ein beliebiges Beispiel, um es sofort in den Generator zu laden und mit der Erstellung zu beginnen."
+    },
+    "logocloud": {
+      "title": "Ihre Lieblingsunternehmen sind unsere Partner"
+    },
+    "integration": {
+      "title": "Integrationen",
+      "subtitle": "Integration mit Ihren Lieblingswerkzeugen",
+      "description": "Nahtlose Verbindung mit beliebten Plattformen und Diensten zur Verbesserung Ihres Workflows.",
+      "learnMore": "Mehr erfahren",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        }
+      }
+    },
+    "integration2": {
+      "title": "Integration mit Ihren Lieblingswerkzeugen",
+      "description": "Nahtlose Verbindung mit beliebten Plattformen und Diensten zur Verbesserung Ihres Workflows.",
+      "primaryButton": "Loslegen",
+      "secondaryButton": "Demo ansehen"
+    },
+    "features": {
+      "title": "Warum GLM Image KI-Bildgenerator verwenden?",
+      "subtitle": "Leistungsstarke Funktionen",
+      "description": "GLM Image ist für komplexe, informationsreiche Visuals mit überlegenen Verständnis- und Layoutfähigkeiten konzipiert.",
+      "items": {
+        "item-1": {
+          "title": "Besseres Verständnis von Prompts",
+          "description": "GLM Image verarbeitet lange und detaillierte Prompts effektiver und erzeugt Bilder, die der beabsichtigten Struktur und Bedeutung entsprechen."
+        },
+        "item-2": {
+          "title": "Klares Layout und Struktur",
+          "description": "Ideal für Visuals, die Titel und Abschnitte, Beschriftungen und Anmerkungen sowie ausgewogene Komposition erfordern."
+        },
+        "item-3": {
+          "title": "Verbesserte Textverarbeitung",
+          "description": "GLM Image schneidet besser ab als viele traditionelle Bildmodelle bei der Generierung von Bildern mit Text."
+        },
+        "item-4": {
+          "title": "Effizient und praktisch",
+          "description": "Entwickelt für Benutzer, die verwendbare Bilder benötigen, nicht nur künstlerische Experimente."
+        }
+      }
+    },
+    "features2": {
+      "title": "Was können Sie mit GLM Image erstellen?",
+      "subtitle": "Anwendungsfälle",
+      "description": "Von Infografiken bis zu Bildungsinhalten hilft Ihnen GLM Image, professionelle Visuals zu erstellen.",
+      "feature-1": "Infografiken und Diagramme",
+      "feature-2": "Bildungsinhalte",
+      "feature-3": "Marketing- und Design-Assets",
+      "feature-4": "Professionelle und geschäftliche Nutzung"
+    },
+    "features3": {
+      "title": "Was ist GLM Image?",
+      "subtitle": "Fortschrittliche KI-Technologie",
+      "description": "GLM Image ist eine fortschrittliche KI-Bildgenerierungstechnologie für komplexe, informationsreiche Visuals.",
+      "items": {
+        "item-1": {
+          "title": "Semantisches Verständnis",
+          "description": "Tiefes Verständnis der Prompt-Bedeutung und -Absicht für präzise Bildgenerierung."
+        },
+        "item-2": {
+          "title": "Logisches Layout",
+          "description": "Intelligente Anordnung visueller Elemente für klare und organisierte Kompositionen."
+        },
+        "item-3": {
+          "title": "Lesbarer Text",
+          "description": "Überlegene Textdarstellungsfähigkeiten für Beschriftungen, Titel und Anmerkungen."
+        },
+        "item-4": {
+          "title": "Klare visuelle Hierarchie",
+          "description": "Strukturierte Organisation, die die Aufmerksamkeit des Betrachters effektiv lenkt."
+        },
+        "item-5": {
+          "title": "Professionelle Qualität",
+          "description": "Geeignet für Bildungs-, Handels- und professionelle Bilderstellung."
+        },
+        "item-6": {
+          "title": "Praktische Ergebnisse",
+          "description": "Fokus auf verwendbare, realitätsnahe Visuals statt nur künstlerische Experimente."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Preise",
+      "subtitle": "Preise",
+      "description": "Wählen Sie den Plan, der am besten zu Ihnen passt"
+    },
+    "stats": {
+      "title": "Vertraut von Kreativen und Profis",
+      "subtitle": "Warum GLM Image wählen",
+      "description": "GLM Image KI-Bildgenerator liefert überlegene Ergebnisse für strukturierte, wissensreiche Visuals",
+      "items": {
+        "item-1": {
+          "title": "Starkes Prompt-Verständnis"
+        },
+        "item-2": {
+          "title": "Klare Struktur und Layout"
+        },
+        "item-3": {
+          "title": "Bessere Textdarstellung"
+        }
+      }
+    },
+    "comparison": {
+      "title": "GLM Image vs. typische KI-Bildgeneratoren",
+      "subtitle": "Sehen Sie den Unterschied",
+      "description": "Vergleichen Sie die Fähigkeiten von GLM Image mit traditionellen Bildgenerierungsmodellen",
+      "headers": {
+        "feature": "Funktion",
+        "glmImage": "GLM Image",
+        "typical": "Typische Modelle"
+      },
+      "items": {
+        "item-1": {
+          "feature": "Prompt-Verständnis",
+          "glmImage": "Ausgezeichnet",
+          "typical": "Mittel"
+        },
+        "item-2": {
+          "feature": "Layout-Genauigkeit",
+          "glmImage": "Hoch",
+          "typical": "Niedrig–Mittel"
+        },
+        "item-3": {
+          "feature": "Textklarheit",
+          "glmImage": "Besser",
+          "typical": "Oft verzerrt"
+        },
+        "item-4": {
+          "feature": "Strukturierter Inhalt",
+          "glmImage": "Stark",
+          "typical": "Schwach"
+        },
+        "item-5": {
+          "feature": "Praktische Nutzung",
+          "glmImage": "Hoch",
+          "typical": "Begrenzt"
+        }
+      }
+    },
+    "usecases": {
+      "title": "Perfekt für",
+      "subtitle": "Anwendungsfälle",
+      "description": "GLM Image KI-Bildgenerator ist für Szenarien konzipiert, in denen Struktur, Klarheit und Bedeutung wichtiger sind als reiner visueller Stil.",
+      "items": {
+        "item-1": {
+          "title": "Infografiken und Datenvisualisierung",
+          "description": "Erstellen Sie saubere und lesbare Infografiken mit klarer Hierarchie, Beschriftungen und Layout. Ideal für Blogs, Berichte, Dashboards und Bildungsinhalte, die strukturierte Visuals benötigen."
+        },
+        "item-2": {
+          "title": "Diagramme und Erklärungen",
+          "description": "Generieren Sie Diagramme für technische, pädagogische oder konzeptionelle Erklärungen. GLM Image funktioniert gut für Flussdiagramme, Prozessdiagramme und schrittweise Visuals."
+        },
+        "item-3": {
+          "title": "Bildungsinhalte",
+          "description": "Erstellen Sie Illustrationen für Lernmaterialien, Präsentationen und Wissensaustausch. Nützlich für Wissenschaft, Technologie, Geschichte und berufliche Schulungsszenarien."
+        },
+        "item-4": {
+          "title": "Poster und Marketing-Visuals",
+          "description": "Entwerfen Sie Poster und Werbematerialien mit besserer Textplatzierung und ausgewogener Komposition. Geeignet für Ankündigungen, Social-Media-Posts und Landing-Page-Visuals."
+        },
+        "item-5": {
+          "title": "Professionelle und geschäftliche Nutzung",
+          "description": "Erstellen Sie Bilder für Präsentationen, interne Dokumente, Produktübersichten und Angebote—ohne Design-Tools oder Erfahrung zu benötigen."
+        },
+        "item-6": {
+          "title": "Experimentieren und Prototyping",
+          "description": "Erkunden Sie schnell visuelle Ideen und Konzepte, wenn Struktur und Klarheit wichtig sind, nicht nur künstlerischer Stil."
+        }
+      }
+    },
+    "howitworks": {
+      "title": "So funktioniert es",
+      "subtitle": "Einfacher Prozess",
+      "description": "Generieren Sie professionelle Bilder in vier einfachen Schritten",
+      "items": {
+        "item-1": {
+          "title": "Geben Sie Ihren Prompt ein",
+          "description": "Beschreiben Sie Ihre Bildidee in natürlicher Sprache."
+        },
+        "item-2": {
+          "title": "KI-Verständnis und Planung",
+          "description": "Das System interpretiert Struktur, Inhalt und Absicht."
+        },
+        "item-3": {
+          "title": "Bildgenerierung",
+          "description": "Das Modell generiert ein strukturiertes und verfeinertes Bild."
+        },
+        "item-4": {
+          "title": "Herunterladen und verwenden",
+          "description": "Bereit für Präsentationen, Websites oder Content-Erstellung."
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "Beginnen Sie mit GLM Image zu erstellen",
+      "description": "Verwandeln Sie Ihre Ideen in klare, strukturierte und nützliche Visuals. Ob Sie Kreativer, Marketer, Pädagoge oder Entwickler sind, GLM Image hilft Ihnen, Bilder zu generieren, die sich auf Bedeutung konzentrieren, nicht nur auf Stil.",
+      "primaryButton": "GLM Image jetzt testen",
+      "secondaryButton": "Mehr erfahren"
+    },
+    "faqs": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Häufige Fragen zu GLM Image",
+      "items": {
+        "item-1": {
+          "question": "Ist dies eine offizielle GLM Image-Website?",
+          "answer": "Nein. Dies ist ein unabhängiger KI-Bildgenerierungsdienst und ist nicht mit einem Modellentwickler verbunden."
+        },
+        "item-2": {
+          "question": "Kann GLM Image Bilder mit lesbarem Text generieren?",
+          "answer": "GLM Image schneidet im Allgemeinen besser ab als viele KI-Bildmodelle bei der Verarbeitung von Text, Titeln und beschrifteten Elementen. Die Ergebnisse können jedoch je nach Prompt-Komplexität variieren."
+        },
+        "item-3": {
+          "question": "Ist GLM Image für kommerzielle Nutzung geeignet?",
+          "answer": "Ja. Über diesen Dienst generierte Bilder können für kommerzielle Zwecke verwendet werden, vorbehaltlich der Nutzungsbedingungen der Plattform."
+        },
+        "item-4": {
+          "question": "Benötige ich Design-Erfahrung, um GLM Image zu verwenden?",
+          "answer": "Es sind keine Design-Kenntnisse erforderlich. Beschreiben Sie einfach Ihre Idee und die KI generiert das Bild für Sie."
+        },
+        "item-5": {
+          "question": "Unterscheidet sich GLM Image von anderen KI-Bildgeneratoren?",
+          "answer": "Ja. Im Vergleich zu vielen Bildgeneratoren, die sich hauptsächlich auf künstlerischen Stil konzentrieren, ist GLM Image besser für strukturierte Layouts, wissensreiche Visuals und Bilder mit Text und Beschriftungen geeignet."
+        },
+        "item-6": {
+          "question": "Welche Bildtypen funktionieren am besten mit GLM Image?",
+          "answer": "GLM Image funktioniert besonders gut für Infografiken, Diagramme und Grafiken, Bildungsillustrationen sowie Poster und Präsentationsvisuals."
+        },
+        "item-7": {
+          "question": "Wie lange dauert die Bildgenerierung?",
+          "answer": "Die meisten Bilder werden innerhalb von 30-60 Sekunden generiert, abhängig von Komplexität und Serverlast. Detailliertere Prompts können etwas länger dauern."
+        }
+      }
+    },
+    "disclaimer": {
+      "title": "Rechtlicher Hinweis",
+      "subtitle": "Wichtige Informationen",
+      "description": "Diese Website ist ein unabhängiger KI-Bildgenerierungsdienst und ist nicht mit Zhipu AI (智谱 AI) oder einer ihrer Tochtergesellschaften verbunden, von diesen unterstützt oder mit diesen verbunden. \"GLM Image\" wird ausschließlich zu beschreibenden und informativen Zwecken verwendet, um die Art des verwendeten KI-Modells anzugeben. Alle Marken, Namen und Modellreferenzen gehören ihren jeweiligen Eigentümern."
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "Metadata": {
+    "name": "glm-image.ai",
+    "title": "Generatore di Immagini AI GLM – Crea Immagini Strutturate con GLM Image",
+    "description": "Il Generatore di Immagini AI GLM ti aiuta a creare immagini strutturate e ricche di conoscenza con GLM Image. Genera poster, diagrammi e visual con migliore layout e precisione del testo"
+  },
+  "HomePage": {
+    "title": "Generatore di Immagini AI GLM",
+    "description": "Genera Immagini Strutturate e Ricche di Conoscenza con l'AI",
+    "hero": {
+      "title": "Generatore di Immagini AI GLM",
+      "description": "Crea immagini di alta qualità con layout chiaro, testo preciso e forte comprensione dei prompt. Il Generatore di Immagini AI GLM è uno strumento potente per poster, diagrammi, infografiche e visual professionali.",
+      "introduction": "Servizio Indipendente di Generazione di Immagini AI",
+      "primary": "Prova GLM Image Ora",
+      "secondary": "Scopri di Più"
+    },
+    "heroGenerator": {
+      "promptLabel": "Descrivi la tua immagine",
+      "promptPlaceholder": "Cosa vuoi vedere?",
+      "aspectRatioLabel": "Proporzioni",
+      "clear": "Cancella",
+      "generate": "Genera",
+      "generating": "Generazione in corso...",
+      "loginToGenerateFree": "Accedi per Generare Gratuitamente",
+      "generateSuccess": "Immagine generata con successo!",
+      "generateError": "Generazione immagine fallita",
+      "promptRequired": "Inserisci un prompt"
+    },
+    "gallery": {
+      "title": "Galleria di Prompt",
+      "subtitle": "Lasciati Ispirare",
+      "description": "Esplora la nostra collezione curata di prompt professionali. Clicca su qualsiasi esempio per caricarlo istantaneamente nel generatore e iniziare a creare."
+    },
+    "logocloud": {
+      "title": "Le tue aziende preferite sono i nostri partner"
+    },
+    "integration": {
+      "title": "Integrazioni",
+      "subtitle": "Integra con i tuoi strumenti preferiti",
+      "description": "Connettiti senza problemi con piattaforme e servizi popolari per migliorare il tuo flusso di lavoro.",
+      "learnMore": "Scopri di Più",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        }
+      }
+    },
+    "integration2": {
+      "title": "Integra con i tuoi strumenti preferiti",
+      "description": "Connettiti senza problemi con piattaforme e servizi popolari per migliorare il tuo flusso di lavoro.",
+      "primaryButton": "Inizia",
+      "secondaryButton": "Vedi Demo"
+    },
+    "features": {
+      "title": "Perché Usare il Generatore di Immagini AI GLM?",
+      "subtitle": "Funzionalità Potenti",
+      "description": "GLM Image è progettato per visual complessi e ricchi di informazioni con capacità superiori di comprensione e layout.",
+      "items": {
+        "item-1": {
+          "title": "Migliore Comprensione dei Prompt",
+          "description": "GLM Image gestisce prompt lunghi e dettagliati in modo più efficace, producendo immagini che corrispondono alla struttura e al significato previsti."
+        },
+        "item-2": {
+          "title": "Layout e Struttura Chiari",
+          "description": "Ideale per visual che richiedono titoli e sezioni, etichette e annotazioni, e composizione equilibrata."
+        },
+        "item-3": {
+          "title": "Gestione Migliorata del Testo",
+          "description": "GLM Image funziona meglio di molti modelli di immagine tradizionali nella generazione di immagini contenenti testo."
+        },
+        "item-4": {
+          "title": "Efficiente e Pratico",
+          "description": "Progettato per utenti che hanno bisogno di immagini utilizzabili, non solo esperimenti artistici."
+        }
+      }
+    },
+    "features2": {
+      "title": "Cosa Puoi Creare con GLM Image?",
+      "subtitle": "Casi d'Uso",
+      "description": "Dalle infografiche ai contenuti educativi, GLM Image ti aiuta a creare visual professionali.",
+      "feature-1": "Infografiche e Diagrammi",
+      "feature-2": "Immagini Educative",
+      "feature-3": "Risorse di Marketing e Design",
+      "feature-4": "Uso Professionale e Aziendale"
+    },
+    "features3": {
+      "title": "Cos'è GLM Image?",
+      "subtitle": "Tecnologia AI Avanzata",
+      "description": "GLM Image è una tecnologia avanzata di generazione di immagini AI progettata per visual complessi e ricchi di informazioni.",
+      "items": {
+        "item-1": {
+          "title": "Comprensione Semantica",
+          "description": "Comprensione profonda del significato e dell'intenzione del prompt per una generazione precisa delle immagini."
+        },
+        "item-2": {
+          "title": "Layout Logico",
+          "description": "Disposizione intelligente degli elementi visivi per composizioni chiare e organizzate."
+        },
+        "item-3": {
+          "title": "Testo Leggibile",
+          "description": "Capacità superiori di rendering del testo per etichette, titoli e annotazioni."
+        },
+        "item-4": {
+          "title": "Gerarchia Visiva Chiara",
+          "description": "Organizzazione strutturata che guida efficacemente l'attenzione dello spettatore."
+        },
+        "item-5": {
+          "title": "Qualità Professionale",
+          "description": "Adatto per la creazione di immagini educative, commerciali e professionali."
+        },
+        "item-6": {
+          "title": "Risultati Pratici",
+          "description": "Focus su visual utilizzabili del mondo reale piuttosto che solo esperimenti artistici."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Prezzi",
+      "subtitle": "Prezzi",
+      "description": "Scegli il piano più adatto a te"
+    },
+    "stats": {
+      "title": "Affidato da Creatori e Professionisti",
+      "subtitle": "Perché Scegliere GLM Image",
+      "description": "Il Generatore di Immagini AI GLM offre risultati superiori per visual strutturati e ricchi di conoscenza",
+      "items": {
+        "item-1": {
+          "title": "Forte comprensione dei prompt"
+        },
+        "item-2": {
+          "title": "Struttura e layout chiari"
+        },
+        "item-3": {
+          "title": "Migliore rendering del testo"
+        }
+      }
+    },
+    "comparison": {
+      "title": "GLM Image vs Generatori di Immagini AI Tipici",
+      "subtitle": "Vedi la Differenza",
+      "description": "Confronta le capacità di GLM Image con i modelli tradizionali di generazione di immagini",
+      "headers": {
+        "feature": "Funzionalità",
+        "glmImage": "GLM Image",
+        "typical": "Modelli Tipici"
+      },
+      "items": {
+        "item-1": {
+          "feature": "Comprensione dei Prompt",
+          "glmImage": "Eccellente",
+          "typical": "Media"
+        },
+        "item-2": {
+          "feature": "Precisione del Layout",
+          "glmImage": "Alta",
+          "typical": "Bassa–Media"
+        },
+        "item-3": {
+          "feature": "Chiarezza del Testo",
+          "glmImage": "Migliore",
+          "typical": "Spesso distorto"
+        },
+        "item-4": {
+          "feature": "Contenuto Strutturato",
+          "glmImage": "Forte",
+          "typical": "Debole"
+        },
+        "item-5": {
+          "feature": "Uso Pratico",
+          "glmImage": "Alto",
+          "typical": "Limitato"
+        }
+      }
+    },
+    "usecases": {
+      "title": "Perfetto Per",
+      "subtitle": "Casi d'Uso",
+      "description": "Il Generatore di Immagini AI GLM è progettato per scenari in cui struttura, chiarezza e significato contano più dello stile visivo puro.",
+      "items": {
+        "item-1": {
+          "title": "Infografiche e Visualizzazione Dati",
+          "description": "Crea infografiche pulite e leggibili con gerarchia chiara, etichette e layout. Ideale per blog, report, dashboard e contenuti educativi che necessitano di visual strutturati."
+        },
+        "item-2": {
+          "title": "Diagrammi e Spiegazioni",
+          "description": "Genera diagrammi per spiegazioni tecniche, educative o concettuali. GLM Image funziona bene per diagrammi di flusso, diagrammi di processo e visual passo-passo."
+        },
+        "item-3": {
+          "title": "Contenuti Educativi",
+          "description": "Produci illustrazioni per materiali didattici, presentazioni e condivisione della conoscenza. Utile per scenari di scienza, tecnologia, storia e formazione professionale."
+        },
+        "item-4": {
+          "title": "Poster e Visual di Marketing",
+          "description": "Progetta poster e visual promozionali con migliore posizionamento del testo e composizione equilibrata. Adatto per annunci, post sui social media e visual per landing page."
+        },
+        "item-5": {
+          "title": "Uso Professionale e Aziendale",
+          "description": "Crea immagini per presentazioni, documenti interni, panoramiche di prodotti e proposte—senza bisogno di strumenti di design o esperienza."
+        },
+        "item-6": {
+          "title": "Sperimentazione e Prototipazione",
+          "description": "Esplora rapidamente idee e concetti visivi quando struttura e chiarezza sono importanti, non solo lo stile artistico."
+        }
+      }
+    },
+    "howitworks": {
+      "title": "Come Funziona",
+      "subtitle": "Processo Semplice",
+      "description": "Genera immagini professionali in quattro semplici passaggi",
+      "items": {
+        "item-1": {
+          "title": "Inserisci il Tuo Prompt",
+          "description": "Descrivi la tua idea di immagine in linguaggio naturale."
+        },
+        "item-2": {
+          "title": "Comprensione e Pianificazione AI",
+          "description": "Il sistema interpreta struttura, contenuto e intenzione."
+        },
+        "item-3": {
+          "title": "Generazione Immagine",
+          "description": "Il modello genera un'immagine strutturata e raffinata."
+        },
+        "item-4": {
+          "title": "Scarica e Usa",
+          "description": "Pronto per presentazioni, siti web o creazione di contenuti."
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "Inizia a Creare con GLM Image",
+      "description": "Trasforma le tue idee in visual chiari, strutturati e utili. Che tu sia un creatore, marketer, educatore o costruttore, GLM Image ti aiuta a generare immagini che si concentrano sul significato, non solo sullo stile.",
+      "primaryButton": "Prova GLM Image Ora",
+      "secondaryButton": "Scopri di Più"
+    },
+    "faqs": {
+      "title": "Domande Frequenti",
+      "subtitle": "Domande Comuni su GLM Image",
+      "items": {
+        "item-1": {
+          "question": "Questo è un sito web ufficiale di GLM Image?",
+          "answer": "No. Questo è un servizio indipendente di generazione di immagini AI e non è affiliato con alcuno sviluppatore di modelli."
+        },
+        "item-2": {
+          "question": "GLM Image può generare immagini con testo leggibile?",
+          "answer": "GLM Image generalmente funziona meglio di molti modelli di immagini AI nella gestione di testo, titoli ed elementi etichettati. Tuttavia, i risultati possono variare a seconda della complessità del prompt."
+        },
+        "item-3": {
+          "question": "GLM Image è adatto per uso commerciale?",
+          "answer": "Sì. Le immagini generate attraverso questo servizio possono essere utilizzate per scopi commerciali, soggette ai termini di servizio della piattaforma."
+        },
+        "item-4": {
+          "question": "Ho bisogno di esperienza di design per usare GLM Image?",
+          "answer": "Non sono necessarie competenze di design. Descrivi semplicemente la tua idea e l'AI genererà l'immagine per te."
+        },
+        "item-5": {
+          "question": "GLM Image è diverso da altri generatori di immagini AI?",
+          "answer": "Sì. Rispetto a molti generatori di immagini che si concentrano principalmente sullo stile artistico, GLM Image è più adatto per layout strutturati, visual ricchi di conoscenza e immagini contenenti testo ed etichette."
+        },
+        "item-6": {
+          "question": "Quali tipi di immagini funzionano meglio con GLM Image?",
+          "answer": "GLM Image funziona particolarmente bene per infografiche, diagrammi e grafici, illustrazioni educative e poster e visual per presentazioni."
+        },
+        "item-7": {
+          "question": "Quanto tempo richiede la generazione di immagini?",
+          "answer": "La maggior parte delle immagini viene generata entro 30-60 secondi, a seconda della complessità e del carico del server. Prompt più dettagliati potrebbero richiedere un po' più di tempo."
+        }
+      }
+    },
+    "disclaimer": {
+      "title": "Disclaimer Legale",
+      "subtitle": "Informazioni Importanti",
+      "description": "Questo sito web è un servizio indipendente di generazione di immagini AI e non è affiliato, approvato o connesso a Zhipu AI (智谱 AI) o a una qualsiasi delle sue sussidiarie. \"GLM Image\" è riferito esclusivamente a scopi descrittivi e informativi per indicare il tipo di modello AI utilizzato. Tutti i marchi, nomi e riferimenti ai modelli appartengono ai rispettivi proprietari."
+    }
+  }
+}

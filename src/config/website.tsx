@@ -51,6 +51,46 @@ export const websiteConfig: WebsiteConfig = {
         name: 'English',
         hreflang: 'en',
       },
+      fr: {
+        flag: '🇫🇷',
+        name: 'Français',
+        hreflang: 'fr',
+      },
+      de: {
+        flag: '🇩🇪',
+        name: 'Deutsch',
+        hreflang: 'de',
+      },
+      ja: {
+        flag: '🇯🇵',
+        name: '日本語',
+        hreflang: 'ja',
+      },
+      ko: {
+        flag: '🇰🇷',
+        name: '한국어',
+        hreflang: 'ko',
+      },
+      es: {
+        flag: '🇪🇸',
+        name: 'Español',
+        hreflang: 'es',
+      },
+      pt: {
+        flag: '🇵🇹',
+        name: 'Português',
+        hreflang: 'pt',
+      },
+      it: {
+        flag: '🇮🇹',
+        name: 'Italiano',
+        hreflang: 'it',
+      },
+      'zh-TW': {
+        flag: '🇹🇼',
+        name: '繁體中文',
+        hreflang: 'zh-TW',
+      },
     },
   },
   blog: {

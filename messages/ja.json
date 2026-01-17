@@ -1,0 +1,296 @@
+{
+  "Metadata": {
+    "name": "glm-image.ai",
+    "title": "GLM Image AI画像生成ツール – GLM Imageで構造化された画像を作成",
+    "description": "GLM Image AI画像生成ツールは、GLM Imageを使用して構造化された知識豊富な画像を作成するのに役立ちます。より良いレイアウトとテキストの精度でポスター、図表、ビジュアルを生成します"
+  },
+  "HomePage": {
+    "title": "GLM Image AI画像生成ツール",
+    "description": "AIで構造化された知識豊富な画像を生成",
+    "hero": {
+      "title": "GLM Image AI画像生成ツール",
+      "description": "明確なレイアウト、正確なテキスト、強力なプロンプト理解で高品質な画像を作成します。GLM Image AI画像生成ツールは、ポスター、図表、インフォグラフィック、プロフェッショナルなビジュアルのための強力なツールです。",
+      "introduction": "独立したAI画像生成サービス",
+      "primary": "GLM Imageを今すぐ試す",
+      "secondary": "詳細を見る"
+    },
+    "heroGenerator": {
+      "promptLabel": "画像を説明してください",
+      "promptPlaceholder": "何を見たいですか？",
+      "aspectRatioLabel": "アスペクト比",
+      "clear": "クリア",
+      "generate": "生成",
+      "generating": "生成中...",
+      "loginToGenerateFree": "ログインして無料で生成",
+      "generateSuccess": "画像が正常に生成されました！",
+      "generateError": "画像の生成に失敗しました",
+      "promptRequired": "プロンプトを入力してください"
+    },
+    "gallery": {
+      "title": "プロンプトギャラリー",
+      "subtitle": "インスピレーションを得る",
+      "description": "プロフェッショナルなプロンプトの厳選されたコレクションをご覧ください。任意の例をクリックして、ジェネレーターに即座に読み込み、作成を開始します。"
+    },
+    "logocloud": {
+      "title": "お気に入りの企業が私たちのパートナーです"
+    },
+    "integration": {
+      "title": "統合",
+      "subtitle": "お気に入りのツールと統合",
+      "description": "人気のプラットフォームやサービスとシームレスに接続して、ワークフローを強化します。",
+      "learnMore": "詳細を見る",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        }
+      }
+    },
+    "integration2": {
+      "title": "お気に入りのツールと統合",
+      "description": "人気のプラットフォームやサービスとシームレスに接続して、ワークフローを強化します。",
+      "primaryButton": "始める",
+      "secondaryButton": "デモを見る"
+    },
+    "features": {
+      "title": "GLM Image AI画像生成ツールを使用する理由",
+      "subtitle": "強力な機能",
+      "description": "GLM Imageは、優れた理解力とレイアウト機能を備えた複雑で情報豊富なビジュアル向けに設計されています。",
+      "items": {
+        "item-1": {
+          "title": "プロンプトの理解力向上",
+          "description": "GLM Imageは長く詳細なプロンプトをより効果的に処理し、意図した構造と意味に一致する画像を生成します。"
+        },
+        "item-2": {
+          "title": "明確なレイアウトと構造",
+          "description": "タイトルとセクション、ラベルと注釈、バランスの取れた構成を必要とするビジュアルに最適です。"
+        },
+        "item-3": {
+          "title": "テキスト処理の改善",
+          "description": "GLM Imageは、テキストを含む画像を生成する際、多くの従来の画像モデルよりも優れたパフォーマンスを発揮します。"
+        },
+        "item-4": {
+          "title": "効率的で実用的",
+          "description": "芸術的な実験だけでなく、使用可能な画像を必要とするユーザー向けに設計されています。"
+        }
+      }
+    },
+    "features2": {
+      "title": "GLM Imageで何が作成できますか？",
+      "subtitle": "使用例",
+      "description": "インフォグラフィックから教育コンテンツまで、GLM Imageはプロフェッショナルなビジュアルの作成を支援します。",
+      "feature-1": "インフォグラフィックと図表",
+      "feature-2": "教育用画像",
+      "feature-3": "マーケティングとデザインアセット",
+      "feature-4": "プロフェッショナルおよびビジネス用途"
+    },
+    "features3": {
+      "title": "GLM Imageとは？",
+      "subtitle": "高度なAI技術",
+      "description": "GLM Imageは、複雑で情報豊富なビジュアル向けに設計された高度なAI画像生成技術です。",
+      "items": {
+        "item-1": {
+          "title": "意味理解",
+          "description": "正確な画像生成のためのプロンプトの意味と意図の深い理解。"
+        },
+        "item-2": {
+          "title": "論理的なレイアウト",
+          "description": "明確で整理された構成のための視覚要素のインテリジェントな配置。"
+        },
+        "item-3": {
+          "title": "読みやすいテキスト",
+          "description": "ラベル、タイトル、注釈のための優れたテキストレンダリング機能。"
+        },
+        "item-4": {
+          "title": "明確な視覚階層",
+          "description": "視聴者の注意を効果的に導く構造化された組織。"
+        },
+        "item-5": {
+          "title": "プロフェッショナルな品質",
+          "description": "教育、商業、プロフェッショナルな画像作成に適しています。"
+        },
+        "item-6": {
+          "title": "実用的な結果",
+          "description": "芸術的な実験だけでなく、使用可能な実世界のビジュアルに焦点を当てています。"
+        }
+      }
+    },
+    "pricing": {
+      "title": "料金",
+      "subtitle": "料金",
+      "description": "最適なプランを選択してください"
+    },
+    "stats": {
+      "title": "クリエイターとプロフェッショナルに信頼されています",
+      "subtitle": "GLM Imageを選ぶ理由",
+      "description": "GLM Image AI画像生成ツールは、構造化された知識豊富なビジュアルに優れた結果を提供します",
+      "items": {
+        "item-1": {
+          "title": "強力なプロンプト理解"
+        },
+        "item-2": {
+          "title": "明確な構造とレイアウト"
+        },
+        "item-3": {
+          "title": "優れたテキストレンダリング"
+        }
+      }
+    },
+    "comparison": {
+      "title": "GLM Image vs 一般的なAI画像生成ツール",
+      "subtitle": "違いを見る",
+      "description": "GLM Imageの機能を従来の画像生成モデルと比較",
+      "headers": {
+        "feature": "機能",
+        "glmImage": "GLM Image",
+        "typical": "一般的なモデル"
+      },
+      "items": {
+        "item-1": {
+          "feature": "プロンプト理解",
+          "glmImage": "優秀",
+          "typical": "中程度"
+        },
+        "item-2": {
+          "feature": "レイアウト精度",
+          "glmImage": "高い",
+          "typical": "低い〜中程度"
+        },
+        "item-3": {
+          "feature": "テキストの明瞭さ",
+          "glmImage": "より良い",
+          "typical": "しばしば歪む"
+        },
+        "item-4": {
+          "feature": "構造化されたコンテンツ",
+          "glmImage": "強い",
+          "typical": "弱い"
+        },
+        "item-5": {
+          "feature": "実用的な使用",
+          "glmImage": "高い",
+          "typical": "限定的"
+        }
+      }
+    },
+    "usecases": {
+      "title": "最適な用途",
+      "subtitle": "使用例",
+      "description": "GLM Image AI画像生成ツールは、純粋な視覚スタイルよりも構造、明瞭さ、意味が重要なシナリオ向けに設計されています。",
+      "items": {
+        "item-1": {
+          "title": "インフォグラフィックとデータ可視化",
+          "description": "明確な階層、ラベル、レイアウトを持つクリーンで読みやすいインフォグラフィックを作成します。構造化されたビジュアルを必要とするブログ、レポート、ダッシュボード、教育コンテンツに最適です。"
+        },
+        "item-2": {
+          "title": "図表と説明",
+          "description": "技術的、教育的、または概念的な説明のための図表を生成します。GLM Imageは、フローチャート、プロセス図、ステップバイステップのビジュアルに適しています。"
+        },
+        "item-3": {
+          "title": "教育コンテンツ",
+          "description": "学習教材、プレゼンテーション、知識共有のためのイラストを作成します。科学、技術、歴史、専門トレーニングのシナリオに役立ちます。"
+        },
+        "item-4": {
+          "title": "ポスターとマーケティングビジュアル",
+          "description": "より良いテキスト配置とバランスの取れた構成でポスターとプロモーションビジュアルをデザインします。お知らせ、ソーシャルメディア投稿、ランディングページのビジュアルに適しています。"
+        },
+        "item-5": {
+          "title": "プロフェッショナルおよびビジネス用途",
+          "description": "デザインツールや経験を必要とせずに、プレゼンテーション、内部文書、製品概要、提案書のための画像を作成します。"
+        },
+        "item-6": {
+          "title": "実験とプロトタイピング",
+          "description": "芸術的なスタイルだけでなく、構造と明瞭さが重要な場合に、視覚的なアイデアとコンセプトを迅速に探索します。"
+        }
+      }
+    },
+    "howitworks": {
+      "title": "仕組み",
+      "subtitle": "シンプルなプロセス",
+      "description": "4つの簡単なステップでプロフェッショナルな画像を生成",
+      "items": {
+        "item-1": {
+          "title": "プロンプトを入力",
+          "description": "自然言語で画像のアイデアを説明します。"
+        },
+        "item-2": {
+          "title": "AI理解と計画",
+          "description": "システムが構造、コンテンツ、意図を解釈します。"
+        },
+        "item-3": {
+          "title": "画像生成",
+          "description": "モデルが構造化された洗練された画像を生成します。"
+        },
+        "item-4": {
+          "title": "ダウンロードと使用",
+          "description": "プレゼンテーション、ウェブサイト、コンテンツ作成に使用できます。"
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "GLM Imageで作成を始めましょう",
+      "description": "アイデアを明確で構造化された有用なビジュアルに変換します。クリエイター、マーケター、教育者、ビルダーのいずれであっても、GLM Imageはスタイルだけでなく意味に焦点を当てた画像の生成を支援します。",
+      "primaryButton": "GLM Imageを今すぐ試す",
+      "secondaryButton": "詳細を見る"
+    },
+    "faqs": {
+      "title": "よくある質問",
+      "subtitle": "GLM Imageに関する一般的な質問",
+      "items": {
+        "item-1": {
+          "question": "これは公式のGLM Imageウェブサイトですか？",
+          "answer": "いいえ。これは独立したAI画像生成サービスであり、モデル開発者とは関係ありません。"
+        },
+        "item-2": {
+          "question": "GLM Imageは読みやすいテキストを含む画像を生成できますか？",
+          "answer": "GLM Imageは一般的に、テキスト、タイトル、ラベル付き要素を処理する際、多くのAI画像モデルよりも優れたパフォーマンスを発揮します。ただし、結果はプロンプトの複雑さによって異なる場合があります。"
+        },
+        "item-3": {
+          "question": "GLM Imageは商用利用に適していますか？",
+          "answer": "はい。このサービスを通じて生成された画像は、プラットフォームの利用規約に従って商用目的で使用できます。"
+        },
+        "item-4": {
+          "question": "GLM Imageを使用するにはデザイン経験が必要ですか？",
+          "answer": "デザインスキルは必要ありません。アイデアを説明するだけで、AIが画像を生成します。"
+        },
+        "item-5": {
+          "question": "GLM Imageは他のAI画像生成ツールと異なりますか？",
+          "answer": "はい。主に芸術的なスタイルに焦点を当てた多くの画像生成ツールと比較して、GLM Imageは構造化されたレイアウト、知識豊富なビジュアル、テキストとラベルを含む画像により適しています。"
+        },
+        "item-6": {
+          "question": "GLM Imageで最も効果的な画像タイプは何ですか？",
+          "answer": "GLM Imageは、インフォグラフィック、図表とグラフ、教育イラストレーション、ポスターとプレゼンテーションビジュアルに特に適しています。"
+        },
+        "item-7": {
+          "question": "画像生成にはどのくらい時間がかかりますか？",
+          "answer": "ほとんどの画像は、複雑さとサーバーの負荷に応じて30〜60秒以内に生成されます。より詳細なプロンプトは少し時間がかかる場合があります。"
+        }
+      }
+    },
+    "disclaimer": {
+      "title": "法的免責事項",
+      "subtitle": "重要な情報",
+      "description": "このウェブサイトは独立したAI画像生成サービスであり、Zhipu AI（智谱 AI）またはその子会社と提携、承認、または接続されていません。「GLM Image」は、使用されているAIモデルのタイプを示すために、説明および情報提供の目的でのみ参照されています。すべての商標、名前、モデル参照は、それぞれの所有者に帰属します。"
+    }
+  }
+}
