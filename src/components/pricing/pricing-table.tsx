@@ -52,7 +52,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 1000,
         images: 100,
-        priceId: creditPackages.basic.price.priceId,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CREDITS_BASIC!,
         features: [
           t('packages.basic.feature1'),
           t('packages.basic.feature2'),
@@ -67,7 +67,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 5000,
         images: 500,
-        priceId: creditPackages.standard.price.priceId,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CREDITS_STANDARD!,
         features: [
           t('packages.standard.feature1'),
           t('packages.standard.feature2'),
@@ -82,7 +82,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 20000,
         images: 2000,
-        priceId: creditPackages.premium.price.priceId,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_CREDITS_PREMIUM!,
         features: [
           t('packages.premium.feature1'),
           t('packages.premium.feature2'),
@@ -99,7 +99,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 500,
         images: 50,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_MONTHLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_BASIC!,
         features: [
           t('monthly.basic.feature1'),
           t('monthly.basic.feature2'),
@@ -114,7 +114,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 2500,
         images: 250,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_MONTHLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_STANDARD!,
         features: [
           t('monthly.standard.feature1'),
           t('monthly.standard.feature2'),
@@ -129,7 +129,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 5000,
         images: 500,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_MONTHLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_PRO!,
         features: [
           t('monthly.pro.feature1'),
           t('monthly.pro.feature2'),
@@ -146,7 +146,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 6000,
         monthlyAvg: 8,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_YEARLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_BASIC!,
         features: [
           t('yearly.basic.feature1'),
           t('yearly.basic.feature2'),
@@ -161,7 +161,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 30000,
         monthlyAvg: 33,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_YEARLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_STANDARD!,
         features: [
           t('yearly.standard.feature1'),
           t('yearly.standard.feature2'),
@@ -176,7 +176,7 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
         currency: 'USD',
         credits: 60000,
         monthlyAvg: 58,
-        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_YEARLY!,
+        priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_PRO!,
         features: [
           t('yearly.pro.feature1'),
           t('yearly.pro.feature2'),
