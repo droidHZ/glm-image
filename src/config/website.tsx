@@ -143,20 +143,46 @@ export const websiteConfig: WebsiteConfig = {
           expireDays: 30,
         },
       },
-      pro: {
-        id: 'pro',
+      basic: {
+        id: 'basic',
         prices: [
           {
             type: PaymentTypes.SUBSCRIPTION,
-            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_MONTHLY!,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_BASIC!,
             amount: 990,
             currency: 'USD',
             interval: PlanIntervals.MONTH,
           },
           {
             type: PaymentTypes.SUBSCRIPTION,
-            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PRO_YEARLY!,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_BASIC!,
             amount: 9900,
+            currency: 'USD',
+            interval: PlanIntervals.YEAR,
+          },
+        ],
+        isFree: false,
+        isLifetime: false,
+        credits: {
+          enable: true,
+          amount: 500,
+          expireDays: 30,
+        },
+      },
+      standard: {
+        id: 'standard',
+        prices: [
+          {
+            type: PaymentTypes.SUBSCRIPTION,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_STANDARD!,
+            amount: 3900,
+            currency: 'USD',
+            interval: PlanIntervals.MONTH,
+          },
+          {
+            type: PaymentTypes.SUBSCRIPTION,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_STANDARD!,
+            amount: 39900,
             currency: 'USD',
             interval: PlanIntervals.YEAR,
           },
@@ -166,26 +192,33 @@ export const websiteConfig: WebsiteConfig = {
         popular: true,
         credits: {
           enable: true,
-          amount: 1000,
+          amount: 2500,
           expireDays: 30,
         },
       },
-      lifetime: {
-        id: 'lifetime',
+      pro: {
+        id: 'pro',
         prices: [
           {
-            type: PaymentTypes.ONE_TIME,
-            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_LIFETIME!,
-            amount: 19900,
+            type: PaymentTypes.SUBSCRIPTION,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_MONTHLY_PRO!,
+            amount: 6900,
             currency: 'USD',
-            allowPromotionCode: true,
+            interval: PlanIntervals.MONTH,
+          },
+          {
+            type: PaymentTypes.SUBSCRIPTION,
+            priceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY_PRO!,
+            amount: 69900,
+            currency: 'USD',
+            interval: PlanIntervals.YEAR,
           },
         ],
         isFree: false,
-        isLifetime: true,
+        isLifetime: false,
         credits: {
           enable: true,
-          amount: 1000,
+          amount: 5000,
           expireDays: 30,
         },
       },

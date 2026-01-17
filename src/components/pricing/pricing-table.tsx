@@ -294,7 +294,10 @@ export function PricingTable({ metadata, className }: PricingTableProps) {
                 )
               ) : (
                 <LoginWrapper mode="modal" asChild callbackUrl={currentPath}>
-                  <Button variant="default" className="mt-4 w-full cursor-pointer">
+                  <Button
+                    variant="default"
+                    className="mt-4 w-full cursor-pointer"
+                  >
                     {mode === 'payAsYouGo' ? t('buyNow') : t('subscribe')}
                   </Button>
                 </LoginWrapper>

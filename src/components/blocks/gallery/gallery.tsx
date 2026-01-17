@@ -1,13 +1,13 @@
 'use client';
 
 import { HeaderSection } from '@/components/layout/header-section';
-import { usePromptStore } from '@/stores/prompt-store';
 import { cn } from '@/lib/utils';
+import { usePromptStore } from '@/stores/prompt-store';
+import { Sparkles } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import { useState } from 'react';
 import { galleryPrompts } from './gallery-data';
-import { Sparkles } from 'lucide-react';
 
 export default function GallerySection() {
   const t = useTranslations('HomePage.gallery');

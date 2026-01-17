@@ -154,43 +154,59 @@
       "name": "Free",
       "description": "Basic features for personal use",
       "features": {
-        "feature-1": "Up to 3 projects",
-        "feature-2": "1 GB storage",
-        "feature-3": "Basic analytics",
-        "feature-4": "Community support"
+        "feature-1": "50 credits to start",
+        "feature-2": "Try all features",
+        "feature-3": "Basic support",
+        "feature-4": "Community access"
       },
       "limits": {
-        "limit-1": "Custom domains",
-        "limit-2": "Custom branding",
-        "limit-3": "Lifetime updates"
+        "limit-1": "Limited credits",
+        "limit-2": "No priority support",
+        "limit-3": "Credits expire in 30 days"
+      }
+    },
+    "basic": {
+      "name": "Basic",
+      "description": "Perfect for individuals getting started",
+      "features": {
+        "feature-1": "500 credits per month",
+        "feature-2": "Auto-renewal",
+        "feature-3": "~50 images/month",
+        "feature-4": "Email support"
+      },
+      "limits": {
+        "limit-1": "No priority support",
+        "limit-2": "Standard features only"
+      }
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Best for growing teams and businesses",
+      "features": {
+        "feature-1": "2,500 credits per month",
+        "feature-2": "Auto-renewal",
+        "feature-3": "~250 images/month",
+        "feature-4": "Priority support",
+        "feature-5": "Advanced features"
+      },
+      "limits": {
+        "limit-1": "No custom branding",
+        "limit-2": "Standard SLA"
       }
     },
     "pro": {
       "name": "Pro",
       "description": "Advanced features for professionals",
       "features": {
-        "feature-1": "Unlimited projects",
-        "feature-2": "10 GB storage",
-        "feature-3": "Advanced analytics",
+        "feature-1": "5,000 credits per month",
+        "feature-2": "Auto-renewal",
+        "feature-3": "~500 images/month",
         "feature-4": "Priority support",
-        "feature-5": "Custom domains"
+        "feature-5": "All advanced features"
       },
       "limits": {
-        "limit-1": "Custom branding",
-        "limit-2": "Lifetime updates"
-      }
-    },
-    "lifetime": {
-      "name": "Lifetime",
-      "description": "Premium features with one-time payment",
-      "features": {
-        "feature-1": "All Pro features",
-        "feature-2": "100 GB storage",
-        "feature-3": "Dedicated support",
-        "feature-4": "Enterprise-grade security",
-        "feature-5": "Advanced integrations",
-        "feature-6": "Custom branding",
-        "feature-7": "Lifetime updates"
+        "limit-1": "Custom branding available",
+        "limit-2": "Premium SLA"
       }
     }
   },

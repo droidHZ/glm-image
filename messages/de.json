@@ -292,5 +292,81 @@
       "subtitle": "Wichtige Informationen",
       "description": "Diese Website ist ein unabhängiger KI-Bildgenerierungsdienst und ist nicht mit Zhipu AI (智谱 AI) oder einer ihrer Tochtergesellschaften verbunden, von diesen unterstützt oder mit diesen verbunden. \"GLM Image\" wird ausschließlich zu beschreibenden und informativen Zwecken verwendet, um die Art des verwendeten KI-Modells anzugeben. Alle Marken, Namen und Modellreferenzen gehören ihren jeweiligen Eigentümern."
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "Nutzungsbasierte Zahlung",
+      "description": "Kaufen Sie Credits nach Bedarf",
+      "features": {
+        "feature-1": "Keine monatliche Verpflichtung",
+        "feature-2": "Credits verfallen nie",
+        "feature-3": "Flexible Preisgestaltung",
+        "feature-4": "Zahlen Sie nur für das, was Sie nutzen"
+      },
+      "limits": {
+        "limit-1": "Keine Abonnementvorteile",
+        "limit-2": "Höhere Kosten pro Credit",
+        "limit-3": "Kein vorrangiger Support"
+      }
+    },
+    "free": {
+      "name": "Kostenlos",
+      "description": "Grundfunktionen für den persönlichen Gebrauch",
+      "features": {
+        "feature-1": "50 Credits zum Start",
+        "feature-2": "Alle Funktionen testen",
+        "feature-3": "Basis-Support",
+        "feature-4": "Community-Zugang"
+      },
+      "limits": {
+        "limit-1": "Begrenzte Credits",
+        "limit-2": "Kein vorrangiger Support",
+        "limit-3": "Credits verfallen nach 30 Tagen"
+      }
+    },
+    "basic": {
+      "name": "Basic",
+      "description": "Perfekt für Einsteiger",
+      "features": {
+        "feature-1": "500 Credits pro Monat",
+        "feature-2": "Automatische Verlängerung",
+        "feature-3": "~50 Bilder/Monat",
+        "feature-4": "E-Mail-Support"
+      },
+      "limits": {
+        "limit-1": "Kein vorrangiger Support",
+        "limit-2": "Nur Standardfunktionen"
+      }
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Ideal für wachsende Teams und Unternehmen",
+      "features": {
+        "feature-1": "2.500 Credits pro Monat",
+        "feature-2": "Automatische Verlängerung",
+        "feature-3": "~250 Bilder/Monat",
+        "feature-4": "Vorrangiger Support",
+        "feature-5": "Erweiterte Funktionen"
+      },
+      "limits": {
+        "limit-1": "Kein Custom Branding",
+        "limit-2": "Standard-SLA"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Erweiterte Funktionen für Profis",
+      "features": {
+        "feature-1": "5.000 Credits pro Monat",
+        "feature-2": "Automatische Verlängerung",
+        "feature-3": "~500 Bilder/Monat",
+        "feature-4": "Vorrangiger Support",
+        "feature-5": "Alle erweiterten Funktionen"
+      },
+      "limits": {
+        "limit-1": "Custom Branding verfügbar",
+        "limit-2": "Premium-SLA"
+      }
+    }
   }
 }

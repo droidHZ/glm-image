@@ -292,5 +292,81 @@
       "subtitle": "Informações Importantes",
       "description": "Este site é um serviço independente de geração de imagens IA e não é afiliado, endossado ou conectado à Zhipu AI (智谱 AI) ou qualquer uma de suas subsidiárias. \"GLM Image\" é referenciado apenas para fins descritivos e informativos para indicar o tipo de modelo de IA usado. Todas as marcas comerciais, nomes e referências de modelos pertencem aos seus respectivos proprietários."
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "Pagamento por uso",
+      "description": "Compre créditos conforme necessário",
+      "features": {
+        "feature-1": "Sem compromisso mensal",
+        "feature-2": "Créditos nunca expiram",
+        "feature-3": "Preços flexíveis",
+        "feature-4": "Pague apenas pelo que usar"
+      },
+      "limits": {
+        "limit-1": "Sem benefícios de assinatura",
+        "limit-2": "Custo por crédito mais alto",
+        "limit-3": "Sem suporte prioritário"
+      }
+    },
+    "free": {
+      "name": "Grátis",
+      "description": "Recursos básicos para uso pessoal",
+      "features": {
+        "feature-1": "50 créditos para começar",
+        "feature-2": "Experimente todos os recursos",
+        "feature-3": "Suporte básico",
+        "feature-4": "Acesso à comunidade"
+      },
+      "limits": {
+        "limit-1": "Créditos limitados",
+        "limit-2": "Sem suporte prioritário",
+        "limit-3": "Créditos expiram em 30 dias"
+      }
+    },
+    "basic": {
+      "name": "Básico",
+      "description": "Perfeito para usuários individuais",
+      "features": {
+        "feature-1": "500 créditos por mês",
+        "feature-2": "Renovação automática",
+        "feature-3": "~50 imagens/mês",
+        "feature-4": "Suporte por e-mail"
+      },
+      "limits": {
+        "limit-1": "Sem suporte prioritário",
+        "limit-2": "Apenas recursos padrão"
+      }
+    },
+    "standard": {
+      "name": "Padrão",
+      "description": "Ideal para equipes e empresas em crescimento",
+      "features": {
+        "feature-1": "2.500 créditos por mês",
+        "feature-2": "Renovação automática",
+        "feature-3": "~250 imagens/mês",
+        "feature-4": "Suporte prioritário",
+        "feature-5": "Recursos avançados"
+      },
+      "limits": {
+        "limit-1": "Sem marca personalizada",
+        "limit-2": "SLA padrão"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Recursos avançados para profissionais",
+      "features": {
+        "feature-1": "5.000 créditos por mês",
+        "feature-2": "Renovação automática",
+        "feature-3": "~500 imagens/mês",
+        "feature-4": "Suporte prioritário",
+        "feature-5": "Todos os recursos avançados"
+      },
+      "limits": {
+        "limit-1": "Marca personalizada disponível",
+        "limit-2": "SLA premium"
+      }
+    }
   }
 }

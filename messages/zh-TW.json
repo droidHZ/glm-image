@@ -292,5 +292,81 @@
       "subtitle": "重要資訊",
       "description": "本網站是一個獨立的 AI 圖像生成服務，不隸屬於、未經智譜 AI（智谱 AI）或其任何子公司的認可或關聯。「GLM Image」僅用於描述和資訊目的，以指示所使用的 AI 模型類型。所有商標、名稱和模型參考均屬於其各自所有者。"
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "按需付費",
+      "description": "根據需要購買積分",
+      "features": {
+        "feature-1": "無需月度承諾",
+        "feature-2": "積分永不過期",
+        "feature-3": "靈活定價",
+        "feature-4": "只為使用付費"
+      },
+      "limits": {
+        "limit-1": "無訂閱優惠",
+        "limit-2": "單次積分成本較高",
+        "limit-3": "無優先支援"
+      }
+    },
+    "free": {
+      "name": "免費版",
+      "description": "適用於個人使用的基本功能",
+      "features": {
+        "feature-1": "50積分起步",
+        "feature-2": "試用所有功能",
+        "feature-3": "基礎支援",
+        "feature-4": "社群訪問"
+      },
+      "limits": {
+        "limit-1": "積分有限",
+        "limit-2": "無優先支援",
+        "limit-3": "積分30天過期"
+      }
+    },
+    "basic": {
+      "name": "基礎版",
+      "description": "適合個人用戶入門",
+      "features": {
+        "feature-1": "每月500積分",
+        "feature-2": "自動續訂",
+        "feature-3": "約50張圖片/月",
+        "feature-4": "郵件支援"
+      },
+      "limits": {
+        "limit-1": "無優先支援",
+        "limit-2": "僅標準功能"
+      }
+    },
+    "standard": {
+      "name": "標準版",
+      "description": "適合成長中的團隊和企業",
+      "features": {
+        "feature-1": "每月2,500積分",
+        "feature-2": "自動續訂",
+        "feature-3": "約250張圖片/月",
+        "feature-4": "優先支援",
+        "feature-5": "高級功能"
+      },
+      "limits": {
+        "limit-1": "不支援自訂品牌",
+        "limit-2": "標準SLA"
+      }
+    },
+    "pro": {
+      "name": "專業版",
+      "description": "專業人士的高級功能",
+      "features": {
+        "feature-1": "每月5,000積分",
+        "feature-2": "自動續訂",
+        "feature-3": "約500張圖片/月",
+        "feature-4": "優先支援",
+        "feature-5": "所有高級功能"
+      },
+      "limits": {
+        "limit-1": "支援自訂品牌",
+        "limit-2": "高級SLA"
+      }
+    }
   }
 }

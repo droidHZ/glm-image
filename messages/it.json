@@ -292,5 +292,81 @@
       "subtitle": "Informazioni Importanti",
       "description": "Questo sito web è un servizio indipendente di generazione di immagini AI e non è affiliato, approvato o connesso a Zhipu AI (智谱 AI) o a una qualsiasi delle sue sussidiarie. \"GLM Image\" è riferito esclusivamente a scopi descrittivi e informativi per indicare il tipo di modello AI utilizzato. Tutti i marchi, nomi e riferimenti ai modelli appartengono ai rispettivi proprietari."
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "Pagamento a consumo",
+      "description": "Acquista crediti secondo necessità",
+      "features": {
+        "feature-1": "Nessun impegno mensile",
+        "feature-2": "I crediti non scadono mai",
+        "feature-3": "Prezzi flessibili",
+        "feature-4": "Paga solo ciò che usi"
+      },
+      "limits": {
+        "limit-1": "Nessun vantaggio abbonamento",
+        "limit-2": "Costo per credito più alto",
+        "limit-3": "Nessun supporto prioritario"
+      }
+    },
+    "free": {
+      "name": "Gratuito",
+      "description": "Funzionalità di base per uso personale",
+      "features": {
+        "feature-1": "50 crediti per iniziare",
+        "feature-2": "Prova tutte le funzionalità",
+        "feature-3": "Supporto di base",
+        "feature-4": "Accesso alla community"
+      },
+      "limits": {
+        "limit-1": "Crediti limitati",
+        "limit-2": "Nessun supporto prioritario",
+        "limit-3": "I crediti scadono dopo 30 giorni"
+      }
+    },
+    "basic": {
+      "name": "Base",
+      "description": "Perfetto per utenti individuali",
+      "features": {
+        "feature-1": "500 crediti al mese",
+        "feature-2": "Rinnovo automatico",
+        "feature-3": "~50 immagini/mese",
+        "feature-4": "Supporto via email"
+      },
+      "limits": {
+        "limit-1": "Nessun supporto prioritario",
+        "limit-2": "Solo funzionalità standard"
+      }
+    },
+    "standard": {
+      "name": "Standard",
+      "description": "Ideale per team e aziende in crescita",
+      "features": {
+        "feature-1": "2.500 crediti al mese",
+        "feature-2": "Rinnovo automatico",
+        "feature-3": "~250 immagini/mese",
+        "feature-4": "Supporto prioritario",
+        "feature-5": "Funzionalità avanzate"
+      },
+      "limits": {
+        "limit-1": "Nessun branding personalizzato",
+        "limit-2": "SLA standard"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Funzionalità avanzate per professionisti",
+      "features": {
+        "feature-1": "5.000 crediti al mese",
+        "feature-2": "Rinnovo automatico",
+        "feature-3": "~500 immagini/mese",
+        "feature-4": "Supporto prioritario",
+        "feature-5": "Tutte le funzionalità avanzate"
+      },
+      "limits": {
+        "limit-1": "Branding personalizzato disponibile",
+        "limit-2": "SLA premium"
+      }
+    }
   }
 }

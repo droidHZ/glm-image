@@ -292,5 +292,81 @@
       "subtitle": "重要な情報",
       "description": "このウェブサイトは独立したAI画像生成サービスであり、Zhipu AI（智谱 AI）またはその子会社と提携、承認、または接続されていません。「GLM Image」は、使用されているAIモデルのタイプを示すために、説明および情報提供の目的でのみ参照されています。すべての商標、名前、モデル参照は、それぞれの所有者に帰属します。"
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "従量課金",
+      "description": "必要に応じてクレジットを購入",
+      "features": {
+        "feature-1": "月額契約不要",
+        "feature-2": "クレジットは無期限",
+        "feature-3": "柔軟な価格設定",
+        "feature-4": "使った分だけお支払い"
+      },
+      "limits": {
+        "limit-1": "サブスクリプション特典なし",
+        "limit-2": "クレジット単価が高い",
+        "limit-3": "優先サポートなし"
+      }
+    },
+    "free": {
+      "name": "無料",
+      "description": "個人利用向けの基本機能",
+      "features": {
+        "feature-1": "50クレジットから開始",
+        "feature-2": "すべての機能を試用",
+        "feature-3": "基本サポート",
+        "feature-4": "コミュニティアクセス"
+      },
+      "limits": {
+        "limit-1": "クレジット制限あり",
+        "limit-2": "優先サポートなし",
+        "limit-3": "クレジットは30日で期限切れ"
+      }
+    },
+    "basic": {
+      "name": "ベーシック",
+      "description": "個人ユーザーに最適",
+      "features": {
+        "feature-1": "月500クレジット",
+        "feature-2": "自動更新",
+        "feature-3": "約50枚の画像/月",
+        "feature-4": "メールサポート"
+      },
+      "limits": {
+        "limit-1": "優先サポートなし",
+        "limit-2": "標準機能のみ"
+      }
+    },
+    "standard": {
+      "name": "スタンダード",
+      "description": "成長中のチームや企業に最適",
+      "features": {
+        "feature-1": "月2,500クレジット",
+        "feature-2": "自動更新",
+        "feature-3": "約250枚の画像/月",
+        "feature-4": "優先サポート",
+        "feature-5": "高度な機能"
+      },
+      "limits": {
+        "limit-1": "カスタムブランディングなし",
+        "limit-2": "標準SLA"
+      }
+    },
+    "pro": {
+      "name": "プロ",
+      "description": "プロフェッショナル向けの高度な機能",
+      "features": {
+        "feature-1": "月5,000クレジット",
+        "feature-2": "自動更新",
+        "feature-3": "約500枚の画像/月",
+        "feature-4": "優先サポート",
+        "feature-5": "すべての高度な機能"
+      },
+      "limits": {
+        "limit-1": "カスタムブランディング利用可能",
+        "limit-2": "プレミアムSLA"
+      }
+    }
   }
 }

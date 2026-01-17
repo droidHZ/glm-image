@@ -292,5 +292,81 @@
       "subtitle": "Información Importante",
       "description": "Este sitio web es un servicio independiente de generación de imágenes IA y no está afiliado, respaldado ni conectado con Zhipu AI (智谱 AI) o cualquiera de sus subsidiarias. \"GLM Image\" se menciona únicamente con fines descriptivos e informativos para indicar el tipo de modelo de IA utilizado. Todas las marcas comerciales, nombres y referencias de modelos pertenecen a sus respectivos propietarios."
     }
+  },
+  "PricePlans": {
+    "payAsYouGo": {
+      "name": "Pago por uso",
+      "description": "Compra créditos según tus necesidades",
+      "features": {
+        "feature-1": "Sin compromiso mensual",
+        "feature-2": "Los créditos nunca caducan",
+        "feature-3": "Precios flexibles",
+        "feature-4": "Paga solo por lo que usas"
+      },
+      "limits": {
+        "limit-1": "Sin beneficios de suscripción",
+        "limit-2": "Mayor costo por crédito",
+        "limit-3": "Sin soporte prioritario"
+      }
+    },
+    "free": {
+      "name": "Gratis",
+      "description": "Funciones básicas para uso personal",
+      "features": {
+        "feature-1": "50 créditos para empezar",
+        "feature-2": "Prueba todas las funciones",
+        "feature-3": "Soporte básico",
+        "feature-4": "Acceso a la comunidad"
+      },
+      "limits": {
+        "limit-1": "Créditos limitados",
+        "limit-2": "Sin soporte prioritario",
+        "limit-3": "Los créditos caducan en 30 días"
+      }
+    },
+    "basic": {
+      "name": "Básico",
+      "description": "Perfecto para usuarios individuales",
+      "features": {
+        "feature-1": "500 créditos por mes",
+        "feature-2": "Renovación automática",
+        "feature-3": "~50 imágenes/mes",
+        "feature-4": "Soporte por correo"
+      },
+      "limits": {
+        "limit-1": "Sin soporte prioritario",
+        "limit-2": "Solo funciones estándar"
+      }
+    },
+    "standard": {
+      "name": "Estándar",
+      "description": "Ideal para equipos y empresas en crecimiento",
+      "features": {
+        "feature-1": "2,500 créditos por mes",
+        "feature-2": "Renovación automática",
+        "feature-3": "~250 imágenes/mes",
+        "feature-4": "Soporte prioritario",
+        "feature-5": "Funciones avanzadas"
+      },
+      "limits": {
+        "limit-1": "Sin marca personalizada",
+        "limit-2": "SLA estándar"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Funciones avanzadas para profesionales",
+      "features": {
+        "feature-1": "5,000 créditos por mes",
+        "feature-2": "Renovación automática",
+        "feature-3": "~500 imágenes/mes",
+        "feature-4": "Soporte prioritario",
+        "feature-5": "Todas las funciones avanzadas"
+      },
+      "limits": {
+        "limit-1": "Marca personalizada disponible",
+        "limit-2": "SLA premium"
+      }
+    }
   }
 }
